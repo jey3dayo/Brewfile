@@ -88,7 +88,7 @@ tap homebrew/php
 install composer 
 install php54-apc 
 install php54-xdebug 
-install php54  --with-apache --with-apache
+install php54  --with-apache
 install phpmd 
 
 ## homebrew/science
