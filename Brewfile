@@ -15,6 +15,7 @@ cask install epub-to-pdf
 cask install firefox
 cask install flash-player
 cask install fluid
+cask install genymotion
 cask install github
 cask install google-chrome
 cask install google-drive
