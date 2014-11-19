@@ -46,6 +46,7 @@ cask install spotify
 cask install teamspeak-client
 cask install teamviewer
 cask install the-unarchiver
+cask install thunderbird
 cask install tinkertool
 cask install torbrowser
 cask install totalterminal
