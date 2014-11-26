@@ -82,7 +82,7 @@ tap homebrew/binary
 ## homebrew/dupes
 tap homebrew/dupes
 install apple-gcc42 
-install grep  --default-names
+install grep  --default-names --with-default-names
 install zlib 
 
 ## homebrew/php
@@ -109,6 +109,10 @@ install mpfr2
 ## josegonzalez/php
 tap josegonzalez/php
 
+## neovim/neovim
+tap neovim/neovim
+install neovim  --HEAD
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file 
@@ -119,6 +123,7 @@ install android-ndk
 install android-sdk
 install ant
 install autoconf
+install automake
 install bdw-gc
 install boot2docker
 install bsdmake
