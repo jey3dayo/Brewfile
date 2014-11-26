@@ -82,7 +82,7 @@ tap homebrew/binary
 ## homebrew/dupes
 tap homebrew/dupes
 install apple-gcc42 
-install grep  --default-names --with-default-names
+install grep  --with-default-names
 install zlib 
 
 ## homebrew/php
