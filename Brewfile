@@ -1,17 +1,18 @@
+
 # tap repositories and their packages
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask 
+install brew-cask
 cask install alfred
 cask install bartender
 cask install bathyscaphe
 cask install bettertouchtool
 cask install chicken
-cask install clipmenu
 cask install coteditor
 cask install dropbox
 cask install epub-to-pdf
+cask install fingerlock
 cask install firefox
 cask install flash-player
 cask install fluid
@@ -66,56 +67,52 @@ cask install font-source-code-pro
 ## caskroom/versions
 tap caskroom/versions
 cask install airmail-beta
-cask install clipmenu-dev
 cask install java7
 cask install sublime-text3
 
 ## homebrew/apache
 tap homebrew/apache
-install apr-util 
-install apr 
-install httpd24 
+install apr-util
+install apr
+install httpd24
 
 ## homebrew/binary
 tap homebrew/binary
 
 ## homebrew/dupes
 tap homebrew/dupes
-install apple-gcc42 
-install grep  --with-default-names
-install zlib 
+install apple-gcc42
+install grep --with-default-names
+install zlib
 
 ## homebrew/php
 tap homebrew/php
-install composer 
-install php54-apc 
-install php54-xdebug 
-install php54  --with-apache
-install phpmd 
+install composer
+install php56 --with-fpm
 
 ## homebrew/science
 tap homebrew/science
-install opencv 
+install opencv
 
 ## homebrew/versions
 tap homebrew/versions
-install android-ndk-r9d 
-install cloog018 
-install gmp4 
-install isl011 
-install libmpc08 
-install mpfr2 
+install android-ndk-r9d
+install cloog018
+install gmp4
+install isl011
+install libmpc08
+install mpfr2
 
 ## josegonzalez/php
 tap josegonzalez/php
 
 ## neovim/neovim
 tap neovim/neovim
-install neovim  --HEAD
+install neovim --HEAD
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file 
+install brew-file
 
 # Other Homebrew packages
 install ack
@@ -172,6 +169,7 @@ install mobile-shell
 install mpfr
 install mysql
 install nettle
+install nginx
 install nkf
 install node
 install nvm
@@ -192,6 +190,7 @@ install reattach-to-user-namespace
 install ruby-build
 install sbt
 install scala
+install shellcheck
 install sl
 install sqlite
 install terminal-notifier
@@ -228,7 +227,6 @@ appstore Growl
 appstore Howler Timer
 appstore iMovie
 appstore iPhoto
-appstore JPEGmini Lite
 appstore Keynote
 appstore Kobito
 appstore LimeChat
@@ -252,5 +250,4 @@ appstore Todoist
 appstore Tweetbot
 appstore VisualJSON
 appstore WinArchiver Lite
-appstore Wunderlist
 appstore Xcode
