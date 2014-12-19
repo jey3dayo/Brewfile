@@ -249,5 +249,6 @@ appstore The Unarchiver
 appstore Todoist
 appstore Tweetbot
 appstore VisualJSON
+appstore VOX
 appstore WinArchiver Lite
 appstore Xcode
