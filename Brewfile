@@ -88,7 +88,7 @@ install zlib
 ## homebrew/php
 tap homebrew/php
 install composer
-install php56 --with-fpm
+install php56 --with-fpm --with-fpm
 
 ## homebrew/science
 tap homebrew/science
