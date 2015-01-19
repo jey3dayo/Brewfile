@@ -11,6 +11,7 @@ cask install bettertouchtool
 cask install chicken
 cask install coteditor
 cask install dropbox
+cask install eclipse-ide
 cask install epub-to-pdf
 cask install fingerlock
 cask install firefox
@@ -29,6 +30,7 @@ cask install intellij-idea-ce
 cask install istat-menus
 cask install istumbler
 cask install iterm2
+cask install java
 cask install keycastr
 cask install kitematic
 cask install lastfm
@@ -72,8 +74,6 @@ cask install sublime-text3
 
 ## homebrew/apache
 tap homebrew/apache
-install apr-util
-install apr
 install httpd24
 
 ## homebrew/binary
@@ -106,6 +106,9 @@ install mpfr2
 ## josegonzalez/php
 tap josegonzalez/php
 
+## jubatus/jubatus
+tap jubatus/jubatus
+
 ## neovim/neovim
 tap neovim/neovim
 install neovim --HEAD
@@ -116,9 +119,11 @@ install brew-file
 
 # Other Homebrew packages
 install ack
-install android-ndk
 install android-sdk
 install ant
+install apache-spark
+install apr
+install apr-util
 install autoconf
 install automake
 install bdw-gc
@@ -141,10 +146,12 @@ install gdbm
 install gettext
 install ghc
 install git
+install giter8
 install gmp
 install gnu-sed --default-names
 install gnutls
 install go
+install gradle
 install heroku-toolbelt
 install htop-osx
 install icu4c
@@ -163,10 +170,12 @@ install libyaml
 install llvm
 install lynx
 install makedepend
+install maven
 install mecab
 install mercurial
 install mobile-shell
 install mpfr
+install msgpack
 install mysql
 install nettle
 install nginx
@@ -185,6 +194,7 @@ install python
 install qt
 install rainbarf
 install rbenv
+install re2
 install readline
 install reattach-to-user-namespace
 install redis
