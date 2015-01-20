@@ -88,7 +88,7 @@ install zlib
 ## homebrew/php
 tap homebrew/php
 install composer
-install php56 --with-fpm --with-fpm
+install php56 --with-fpm
 
 ## homebrew/science
 tap homebrew/science
@@ -113,9 +113,16 @@ tap jubatus/jubatus
 tap neovim/neovim
 install neovim --HEAD
 
+## peco/peco
+tap peco/peco
+install peco
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
+
+## sanemat/font
+tap sanemat/font
 
 # Other Homebrew packages
 install ack
