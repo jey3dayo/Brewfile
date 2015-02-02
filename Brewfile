@@ -88,7 +88,11 @@ install zlib
 ## homebrew/php
 tap homebrew/php
 install composer
-install php56 --with-fpm
+install php56 --with-fpm --with-fpm
+
+## homebrew/python
+tap homebrew/python
+install numpy
 
 ## homebrew/science
 tap homebrew/science
@@ -115,6 +119,7 @@ install neovim --HEAD
 
 ## peco/peco
 tap peco/peco
+install migemogrep
 install peco
 
 ## rcmdnk/file
@@ -145,6 +150,7 @@ install coreutils
 install cscope
 install ctags
 install docker
+install eigen
 install elinks
 install fig
 install freetype
@@ -162,6 +168,7 @@ install gradle
 install heroku-toolbelt
 install htop-osx
 install icu4c
+install ilmbase
 install imagemagick
 install isl
 install jpeg
@@ -189,6 +196,7 @@ install nginx
 install nkf
 install node
 install nvm
+install openexr
 install openssl
 install pcre
 install perl-build
