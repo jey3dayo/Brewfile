@@ -265,6 +265,7 @@ appstore Pages
 appstore Pixelmator
 appstore Pocket
 appstore PopClip
+appstore Pushbullet
 appstore ReadKit
 appstore Shazam
 appstore Skitch
