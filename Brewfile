@@ -23,6 +23,7 @@ cask install google-chrome
 cask install google-drive
 cask install google-japanese-ime
 cask install hipchat
+cask install hocus-focus
 cask install hyperswitch
 cask install ifunbox
 cask install imageoptim
@@ -88,7 +89,7 @@ install zlib
 ## homebrew/php
 tap homebrew/php
 install composer
-install php56 --with-fpm --with-fpm
+install php56 --with-fpm
 
 ## homebrew/python
 tap homebrew/python
