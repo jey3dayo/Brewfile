@@ -17,6 +17,7 @@ cask install fingerlock
 cask install firefox
 cask install flash-player
 cask install fluid
+cask install ganttproject
 cask install genymotion
 cask install github
 cask install google-chrome
@@ -52,7 +53,6 @@ cask install teamspeak-client
 cask install teamviewer
 cask install the-unarchiver
 cask install thunderbird
-cask install tinkertool
 cask install torbrowser
 cask install totalterminal
 cask install tunnelblick
@@ -236,6 +236,11 @@ install xz
 install z
 install zsh
 install zsh-completions
+
+# Below applications were installed by Cask,
+# but don't not have corresponding casks.
+
+#cask  install tinkertool (!)
 
 # App Store applications
 appstore 1Keyboard
