@@ -237,11 +237,6 @@ install z
 install zsh
 install zsh-completions
 
-# Below applications were installed by Cask,
-# but don't not have corresponding casks.
-
-#cask  install tinkertool (!)
-
 # App Store applications
 appstore 1Keyboard
 appstore 1Password
@@ -268,6 +263,7 @@ appstore Microsoft Remote Desktop
 appstore Numbers
 appstore Pages
 appstore Pixelmator
+appstore Pixlr
 appstore Pocket
 appstore PopClip
 appstore Pushbullet
