@@ -11,12 +11,8 @@ cask install bettertouchtool
 cask install chicken
 cask install coteditor
 cask install dropbox
-cask install eclipse-ide
-cask install epub-to-pdf
-cask install fingerlock
 cask install firefox
 cask install flash-player
-cask install fluid
 cask install ganttproject
 cask install genymotion
 cask install github
@@ -33,8 +29,6 @@ cask install istat-menus
 cask install istumbler
 cask install iterm2
 cask install java
-cask install keycastr
-cask install kitematic
 cask install lastfm
 cask install licecap
 cask install limechat
@@ -69,7 +63,6 @@ cask install font-source-code-pro
 
 ## caskroom/versions
 tap caskroom/versions
-cask install airmail-beta
 cask install java7
 cask install sublime-text3
 
@@ -120,7 +113,6 @@ install neovim --HEAD
 
 ## peco/peco
 tap peco/peco
-install migemogrep
 install peco
 
 ## rcmdnk/file
@@ -212,7 +204,6 @@ install rainbarf
 install rbenv
 install re2
 install readline
-install reattach-to-user-namespace
 install redis
 install ruby-build
 install sbt
@@ -220,7 +211,6 @@ install scala
 install shellcheck
 install sl
 install sqlite
-install terminal-notifier
 install the_silver_searcher
 install tmux
 install tree
