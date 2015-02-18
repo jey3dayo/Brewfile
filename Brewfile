@@ -29,6 +29,8 @@ cask install istat-menus
 cask install istumbler
 cask install iterm2
 cask install java
+cask install keycastr
+cask install kitematic
 cask install lastfm
 cask install licecap
 cask install limechat
@@ -232,7 +234,6 @@ appstore 1Keyboard
 appstore 1Password
 appstore Caffeine
 appstore CloudClip Manager
-appstore Command-C
 appstore DaisyDisk
 appstore Dash
 appstore Degrees
