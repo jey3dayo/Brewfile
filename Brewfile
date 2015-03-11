@@ -17,7 +17,6 @@ cask install ganttproject
 cask install genymotion
 cask install github
 cask install google-chrome
-cask install google-drive
 cask install google-japanese-ime
 cask install hipchat
 cask install hocus-focus
@@ -29,14 +28,11 @@ cask install istat-menus
 cask install istumbler
 cask install iterm2
 cask install java
-cask install keycastr
-cask install kitematic
 cask install lastfm
 cask install licecap
 cask install limechat
 cask install macdown
 cask install macvim
-cask install magican
 cask install notifyr
 cask install onyx
 cask install sequel-pro
@@ -49,14 +45,11 @@ cask install teamspeak-client
 cask install teamviewer
 cask install the-unarchiver
 cask install thunderbird
-cask install torbrowser
-cask install totalterminal
 cask install tunnelblick
 cask install vagrant
 cask install virtualbox
 cask install vlc
 cask install vmware-fusion
-cask install witch
 
 ## caskroom/fonts
 tap caskroom/fonts
@@ -125,7 +118,6 @@ install brew-file
 tap sanemat/font
 
 # Other Homebrew packages
-install ack
 install android-sdk
 install ant
 install apache-spark
