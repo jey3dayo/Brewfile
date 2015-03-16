@@ -9,6 +9,8 @@ cask install bartender
 cask install bathyscaphe
 cask install bettertouchtool
 cask install chicken
+cask install colors
+cask install cooviewer
 cask install coteditor
 cask install dropbox
 cask install firefox
@@ -17,6 +19,7 @@ cask install ganttproject
 cask install genymotion
 cask install github
 cask install google-chrome
+cask install google-drive
 cask install google-japanese-ime
 cask install hipchat
 cask install hocus-focus
@@ -28,6 +31,9 @@ cask install istat-menus
 cask install istumbler
 cask install iterm2
 cask install java
+cask install keycastr
+cask install kitematic
+cask install krita
 cask install lastfm
 cask install licecap
 cask install limechat
@@ -77,6 +83,8 @@ install zlib
 ## homebrew/php
 tap homebrew/php
 install composer
+install php56-ioncubeloader
+install php56-redland
 install php56 --with-fpm
 
 ## homebrew/python
@@ -118,6 +126,7 @@ install brew-file
 tap sanemat/font
 
 # Other Homebrew packages
+install ack
 install android-sdk
 install ant
 install apache-spark
@@ -159,6 +168,7 @@ install ilmbase
 install imagemagick
 install isl
 install jpeg
+install jq
 install libevent
 install libgcrypt
 install libgpg-error
@@ -195,10 +205,13 @@ install protobuf
 install python
 install qt
 install rainbarf
+install raptor
+install rasqal
 install rbenv
 install re2
 install readline
 install redis
+install redland
 install ruby-build
 install sbt
 install scala
@@ -233,6 +246,7 @@ appstore Disk Diag
 appstore Evernote
 appstore ForkLift
 appstore GarageBand
+appstore Go for Facebook
 appstore Growl
 appstore Howler Timer
 appstore iMovie
