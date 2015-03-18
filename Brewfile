@@ -47,6 +47,7 @@ cask install skype
 cask install slack
 cask install sourcetree
 cask install spotify
+cask install td-agent
 cask install teamspeak-client
 cask install teamviewer
 cask install the-unarchiver
@@ -76,7 +77,6 @@ tap homebrew/binary
 
 ## homebrew/dupes
 tap homebrew/dupes
-install apple-gcc42
 install grep --with-default-names
 install zlib
 
@@ -85,7 +85,7 @@ tap homebrew/php
 install composer
 install php56-ioncubeloader
 install php56-redland
-install php56 --with-fpm
+install php56
 
 ## homebrew/python
 tap homebrew/python
