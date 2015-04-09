@@ -25,7 +25,6 @@ cask install hipchat
 cask install hocus-focus
 cask install hyperswitch
 cask install ifunbox
-cask install imageoptim
 cask install intellij-idea-ce
 cask install istat-menus
 cask install istumbler
