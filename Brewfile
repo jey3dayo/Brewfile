@@ -26,6 +26,7 @@ cask install hocus-focus
 cask install hyperswitch
 cask install ifunbox
 cask install intellij-idea-ce
+cask install intellij-idea
 cask install istat-menus
 cask install istumbler
 cask install iterm2
@@ -215,10 +216,10 @@ install ruby-build
 install sbt
 install scala
 install shellcheck
-install sl
 install sqlite
 install the_silver_searcher
 install tmux
+install tomcat
 install tree
 install unar
 install unbound
