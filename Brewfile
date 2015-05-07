@@ -36,7 +36,6 @@ cask install kitematic
 cask install krita
 cask install lastfm
 cask install licecap
-cask install limechat
 cask install macdown
 cask install macvim
 cask install notifyr
@@ -253,7 +252,6 @@ appstore iMovie
 appstore iPhoto
 appstore Keynote
 appstore Kobito
-appstore LimeChat
 appstore LINE
 appstore MenuTab for Facebook
 appstore Microsoft Remote Desktop
