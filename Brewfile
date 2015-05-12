@@ -3,105 +3,107 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install alfred
-cask install bartender
-cask install bathyscaphe
-cask install bettertouchtool
-cask install chicken
-cask install colors
-cask install cooviewer
-cask install coteditor
-cask install dropbox
-cask install firefox
-cask install flash-player
-cask install ganttproject
-cask install genymotion
-cask install github
-cask install google-chrome
-cask install google-drive
-cask install google-japanese-ime
-cask install hipchat
-cask install hocus-focus
-cask install hyperswitch
-cask install ifunbox
-cask install intellij-idea-ce
-cask install intellij-idea
-cask install istat-menus
-cask install istumbler
-cask install iterm2
-cask install java
-cask install keycastr
-cask install kitematic
-cask install krita
-cask install lastfm
-cask install licecap
-cask install macdown
-cask install macvim
-cask install notifyr
-cask install onyx
-cask install sequel-pro
-cask install skitch
-cask install skype
-cask install slack
-cask install sourcetree
-cask install spotify
-cask install td-agent
-cask install teamspeak-client
-cask install teamviewer
-cask install the-unarchiver
-cask install thunderbird
-cask install tunnelblick
-cask install vagrant
-cask install virtualbox
-cask install vlc
-cask install vmware-fusion
+brew brew-cask
+cask alfred
+cask bartender
+cask bathyscaphe
+cask bettertouchtool
+cask chicken
+cask colors
+cask cooviewer
+cask coteditor
+cask dropbox
+cask eclipse-java
+cask firefox
+cask flash-player
+cask ganttproject
+cask genymotion
+cask github
+cask google-chrome
+cask google-drive
+cask google-japanese-ime
+cask haroopad
+cask hipchat
+cask hocus-focus
+cask hyperswitch
+cask ifunbox
+cask intellij-idea-ce
+cask intellij-idea
+cask istat-menus
+cask istumbler
+cask iterm2
+cask java
+cask keycastr
+cask kitematic
+cask krita
+cask lastfm
+cask licecap
+cask macdown
+cask macvim
+cask notifyr
+cask onyx
+cask sequel-pro
+cask skitch
+cask skype
+cask slack
+cask sourcetree
+cask spotify
+cask td-agent
+cask teamspeak-client
+cask teamviewer
+cask the-unarchiver
+cask thunderbird
+cask tunnelblick
+cask vagrant
+cask virtualbox
+cask vlc
+cask vmware-fusion
 
 ## caskroom/fonts
 tap caskroom/fonts
-cask install font-inconsolata
-cask install font-source-code-pro
+cask font-inconsolata
+cask font-source-code-pro
 
 ## caskroom/versions
 tap caskroom/versions
-cask install java7
-cask install sublime-text3
+cask java7
+cask sublime-text3
 
 ## homebrew/apache
 tap homebrew/apache
-install httpd24
+brew httpd24
 
 ## homebrew/binary
 tap homebrew/binary
 
 ## homebrew/dupes
 tap homebrew/dupes
-install grep --with-default-names
-install zlib
+brew grep --with-default-names
+brew zlib
 
 ## homebrew/php
 tap homebrew/php
-install composer
-install php56-ioncubeloader
-install php56-redland
-install php56
+brew composer
+brew php56-ioncubeloader
+brew php56-redland
+brew php56
 
 ## homebrew/python
 tap homebrew/python
-install numpy
+brew numpy
 
 ## homebrew/science
 tap homebrew/science
-install opencv
+brew opencv
 
 ## homebrew/versions
 tap homebrew/versions
-install android-ndk-r9d
-install cloog018
-install gmp4
-install isl011
-install libmpc08
-install mpfr2
+brew android-ndk-r9d
+brew cloog018
+brew gmp4
+brew isl011
+brew libmpc08
+brew mpfr2
 
 ## josegonzalez/php
 tap josegonzalez/php
@@ -111,127 +113,127 @@ tap jubatus/jubatus
 
 ## neovim/neovim
 tap neovim/neovim
-install neovim --HEAD
+brew neovim --HEAD
 
 ## peco/peco
 tap peco/peco
-install peco
+brew peco
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 ## sanemat/font
 tap sanemat/font
 
 # Other Homebrew packages
-install ack
-install android-sdk
-install ant
-install apache-spark
-install apr
-install apr-util
-install autoconf
-install automake
-install bdw-gc
-install boot2docker
-install bsdmake
-install chipmunk
-install cloog
-install cmake
-install cmigemo
-install colordiff
-install coreutils
-install cscope
-install ctags
-install docker
-install eigen
-install elinks
-install fig
-install freetype
-install gcc
-install gdbm
-install gettext
-install ghc
-install git
-install giter8
-install gmp
-install gnu-sed --default-names
-install gnutls
-install go
-install gradle
-install heroku-toolbelt
-install htop-osx
-install icu4c
-install ilmbase
-install imagemagick
-install isl
-install jpeg
-install jq
-install libevent
-install libgcrypt
-install libgpg-error
-install libmpc
-install libpng
-install libtasn1
-install libtiff
-install libtool
-install libyaml
-install llvm
-install lynx
-install makedepend
-install maven
-install mecab
-install mercurial
-install mobile-shell
-install mpfr
-install msgpack
-install mysql
-install nettle
-install nginx
-install nkf
-install node
-install nvm
-install openexr
-install openssl
-install pcre
-install perl-build
-install pkg-config
-install plenv
-install polipo
-install proctools
-install protobuf
-install python
-install qt
-install rainbarf
-install raptor
-install rasqal
-install rbenv
-install re2
-install readline
-install redis
-install redland
-install ruby-build
-install sbt
-install scala
-install shellcheck
-install sqlite
-install the_silver_searcher
-install tmux
-install tomcat
-install tree
-install unar
-install unbound
-install unixodbc
-install vim
-install w3m
-install watch
-install weechat
-install wget
-install xz
-install z
-install zsh
-install zsh-completions
+brew ack
+brew android-sdk
+brew ant
+brew apache-spark
+brew apr
+brew apr-util
+brew autoconf
+brew automake
+brew bdw-gc
+brew boot2docker
+brew bsdmake
+brew chipmunk
+brew cloog
+brew cmake
+brew cmigemo
+brew colordiff
+brew coreutils
+brew cscope
+brew ctags
+brew docker
+brew eigen
+brew elinks
+brew fig
+brew freetype
+brew gcc
+brew gdbm
+brew gettext
+brew ghc
+brew git
+brew giter8
+brew gmp
+brew gnu-sed --default-names
+brew gnutls
+brew go
+brew gradle
+brew heroku-toolbelt
+brew htop-osx
+brew icu4c
+brew ilmbase
+brew imagemagick
+brew isl
+brew jpeg
+brew jq
+brew libevent
+brew libgcrypt
+brew libgpg-error
+brew libmpc
+brew libpng
+brew libtasn1
+brew libtiff
+brew libtool
+brew libyaml
+brew llvm
+brew lynx
+brew makedepend
+brew maven
+brew mecab
+brew mercurial
+brew mobile-shell
+brew mpfr
+brew msgpack
+brew mysql
+brew nettle
+brew nginx
+brew nkf
+brew node
+brew nvm
+brew openexr
+brew openssl
+brew pcre
+brew perl-build
+brew pkg-config
+brew plenv
+brew polipo
+brew proctools
+brew protobuf
+brew python
+brew qt
+brew rainbarf
+brew raptor
+brew rasqal
+brew rbenv
+brew re2
+brew readline
+brew redis
+brew redland
+brew ruby-build
+brew sbt
+brew scala
+brew shellcheck
+brew sqlite
+brew the_silver_searcher
+brew tmux
+brew tomcat
+brew tree
+brew unar
+brew unbound
+brew unixodbc
+brew vim
+brew w3m
+brew watch
+brew weechat
+brew wget
+brew xz
+brew z
+brew zsh
+brew zsh-completions
 
 # App Store applications
 appstore 1Keyboard
@@ -252,6 +254,7 @@ appstore iMovie
 appstore iPhoto
 appstore Keynote
 appstore Kobito
+appstore LimeChat
 appstore LINE
 appstore MenuTab for Facebook
 appstore Microsoft Remote Desktop
