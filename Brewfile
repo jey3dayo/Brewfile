@@ -22,10 +22,12 @@ cask github
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
+cask haroopad
 cask hipchat
 cask hocus-focus
 cask hyperswitch
 cask ifunbox
+cask intellij-idea-ce
 cask intellij-idea
 cask istat-menus
 cask istumbler
@@ -41,11 +43,13 @@ cask macdown
 cask macvim
 cask notifyr
 cask onyx
+cask razer-synapse
 cask sequel-pro
 cask skype
 cask slack
 cask sourcetree
 cask spotify
+cask sts
 cask td-agent
 cask teamspeak-client
 cask teamviewer
@@ -84,7 +88,6 @@ brew zlib
 tap homebrew/php
 brew composer
 brew php56-ioncubeloader
-brew php56-redland
 brew php56
 
 ## homebrew/python
@@ -103,9 +106,6 @@ brew gmp4
 brew isl011
 brew libmpc08
 brew mpfr2
-
-## josegonzalez/php
-tap josegonzalez/php
 
 ## jubatus/jubatus
 tap jubatus/jubatus
