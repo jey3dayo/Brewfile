@@ -22,12 +22,10 @@ cask github
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
-cask haroopad
 cask hipchat
 cask hocus-focus
 cask hyperswitch
 cask ifunbox
-cask intellij-idea-ce
 cask intellij-idea
 cask istat-menus
 cask istumbler
