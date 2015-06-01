@@ -242,13 +242,11 @@ brew zsh-completions
 appstore 1Keyboard
 appstore 1Password
 appstore Caffeine
-appstore CloudClip Manager
 appstore DaisyDisk
 appstore Dash
 appstore Degrees
 appstore Disk Diag
 appstore Evernote
-appstore ForkLift
 appstore GarageBand
 appstore Go for Facebook
 appstore Growl
