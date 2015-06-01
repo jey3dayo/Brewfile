@@ -37,13 +37,13 @@ cask keycastr
 cask kitematic
 cask krita
 cask lastfm
+cask league-of-legends
 cask licecap
 cask macdown
 cask macvim
 cask notifyr
 cask onyx
 cask sequel-pro
-cask skitch
 cask skype
 cask slack
 cask sourcetree
@@ -56,6 +56,7 @@ cask thunderbird
 cask tunnelblick
 cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask vlc
 cask vmware-fusion
 
@@ -149,6 +150,7 @@ brew ctags
 brew docker
 brew eigen
 brew elinks
+brew etcd
 brew fig
 brew freetype
 brew gcc
@@ -159,6 +161,7 @@ brew git
 brew giter8
 brew gmp
 brew gnu-sed --default-names
+brew gnu-tar
 brew gnutls
 brew go
 brew gradle
@@ -168,8 +171,10 @@ brew icu4c
 brew ilmbase
 brew imagemagick
 brew isl
+brew jmeter
 brew jpeg
 brew jq
+brew kubernetes-cli
 brew libevent
 brew libgcrypt
 brew libgpg-error
