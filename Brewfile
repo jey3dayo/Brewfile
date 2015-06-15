@@ -43,6 +43,7 @@ cask macdown
 cask macvim
 cask notifyr
 cask onyx
+cask paw
 cask razer-synapse
 cask sequel-pro
 cask skype
@@ -88,6 +89,7 @@ brew zlib
 tap homebrew/php
 brew composer
 brew php56-ioncubeloader
+brew php56-redland
 brew php56
 
 ## homebrew/python
@@ -269,6 +271,7 @@ appstore Pushbullet
 appstore ReadKit
 appstore Shazam
 appstore Skitch
+appstore SoraAnnai
 appstore SourceTree
 appstore Sparrow
 appstore SpriteBuilder
