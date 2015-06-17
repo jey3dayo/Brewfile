@@ -216,6 +216,7 @@ brew rasqal
 brew rbenv
 brew re2
 brew readline
+brew reattach-to-user-namespace
 brew redis
 brew redland
 brew ruby-build
@@ -223,6 +224,7 @@ brew sbt
 brew scala
 brew shellcheck
 brew sqlite
+brew terminal-notifier
 brew the_silver_searcher
 brew tmux
 brew tomcat
