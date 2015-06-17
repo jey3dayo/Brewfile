@@ -27,7 +27,6 @@ cask hipchat
 cask hocus-focus
 cask hyperswitch
 cask ifunbox
-cask intellij-idea-ce
 cask intellij-idea
 cask istat-menus
 cask istumbler
