@@ -5,6 +5,8 @@
 tap caskroom/cask
 brew brew-cask
 cask alfred
+cask appcleaner
+cask appzapper
 cask bartender
 cask bathyscaphe
 cask bettertouchtool
@@ -147,6 +149,8 @@ brew coreutils
 brew cscope
 brew ctags
 brew docker
+brew docker-machine
+brew docker-swarm
 brew eigen
 brew elinks
 brew etcd
