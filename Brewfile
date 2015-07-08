@@ -35,13 +35,12 @@ cask istumbler
 cask iterm2
 cask java
 cask keycastr
-cask kitematic
 cask krita
 cask lastfm
 cask league-of-legends
 cask licecap
 cask macdown
-cask macvim
+cask musicbrainz-picard
 cask notifyr
 cask onyx
 cask paw
@@ -63,6 +62,7 @@ cask virtualbox
 cask visual-studio-code
 cask vlc
 cask vmware-fusion
+cask vox-preferences-pane
 
 ## caskroom/fonts
 tap caskroom/fonts
@@ -72,6 +72,7 @@ cask font-source-code-pro
 ## caskroom/versions
 tap caskroom/versions
 cask java7
+cask macvim-kaoriya
 cask sublime-text3
 
 ## homebrew/apache
@@ -84,6 +85,7 @@ tap homebrew/binary
 ## homebrew/dupes
 tap homebrew/dupes
 brew grep --with-default-names
+brew make
 brew zlib
 
 ## homebrew/php
@@ -128,6 +130,12 @@ brew brew-file
 ## sanemat/font
 tap sanemat/font
 
+## supermomonga/splhack
+tap supermomonga/splhack
+brew cmigemo-mk --HEAD
+brew ctags-objc-ja --HEAD
+brew gettext-mk
+
 # Other Homebrew packages
 brew ack
 brew android-sdk
@@ -148,6 +156,7 @@ brew colordiff
 brew coreutils
 brew cscope
 brew ctags
+brew direnv
 brew docker
 brew docker-machine
 brew docker-swarm
@@ -188,6 +197,7 @@ brew libtiff
 brew libtool
 brew libyaml
 brew llvm
+brew lua
 brew lynx
 brew makedepend
 brew maven
@@ -222,12 +232,12 @@ brew readline
 brew reattach-to-user-namespace
 brew redis
 brew redland
+brew ruby
 brew ruby-build
 brew sbt
 brew scala
 brew shellcheck
 brew sqlite
-brew terminal-notifier
 brew the_silver_searcher
 brew tmux
 brew tomcat
@@ -254,7 +264,6 @@ appstore Dash
 appstore Degrees
 appstore Disk Diag
 appstore Evernote
-appstore GarageBand
 appstore Go for Facebook
 appstore Growl
 appstore Howler Timer
@@ -281,10 +290,10 @@ appstore SourceTree
 appstore Sparrow
 appstore SpriteBuilder
 appstore StuffIt Expander
+appstore Sunrise Calendar
 appstore The Unarchiver
 appstore Todoist
 appstore Tweetbot
 appstore VisualJSON
 appstore VOX
 appstore WinArchiver Lite
-appstore Xcode
