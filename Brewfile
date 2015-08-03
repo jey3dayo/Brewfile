@@ -18,13 +18,11 @@ cask dropbox
 cask eclipse-java
 cask firefox
 cask flash-player
-cask ganttproject
 cask genymotion
 cask github
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
-cask haroopad
 cask hipchat
 cask hocus-focus
 cask hyperswitch
@@ -42,15 +40,12 @@ cask licecap
 cask macdown
 cask musicbrainz-picard
 cask notifyr
-cask onyx
-cask paw
 cask razer-synapse
 cask sequel-pro
 cask skype
 cask slack
 cask sourcetree
 cask spotify
-cask sts
 cask td-agent
 cask teamspeak-client
 cask teamviewer
@@ -73,7 +68,6 @@ cask font-source-code-pro
 tap caskroom/versions
 cask java7
 cask macvim-kaoriya
-cask sublime-text3
 
 ## homebrew/apache
 tap homebrew/apache
