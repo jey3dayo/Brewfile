@@ -7,6 +7,7 @@ brew brew-cask
 cask alfred
 cask appcleaner
 cask appzapper
+cask atom
 cask bartender
 cask bathyscaphe
 cask bettertouchtool
@@ -66,6 +67,7 @@ cask font-source-code-pro
 
 ## caskroom/versions
 tap caskroom/versions
+cask airmail-beta
 cask java7
 cask macvim-kaoriya
 
@@ -171,6 +173,7 @@ brew gnu-tar
 brew gnutls
 brew go
 brew gradle
+brew graphicsmagick
 brew heroku-toolbelt
 brew htop-osx
 brew icu4c
@@ -226,6 +229,7 @@ brew readline
 brew reattach-to-user-namespace
 brew redis
 brew redland
+brew rethinkdb
 brew ruby
 brew ruby-build
 brew sbt
@@ -246,6 +250,7 @@ brew weechat
 brew wget
 brew xz
 brew z
+brew zeromq
 brew zsh
 brew zsh-completions
 
@@ -255,6 +260,7 @@ appstore 1Password
 appstore Caffeine
 appstore DaisyDisk
 appstore Dash
+appstore Deckset
 appstore Degrees
 appstore Disk Diag
 appstore Evernote
@@ -291,3 +297,4 @@ appstore Tweetbot
 appstore VisualJSON
 appstore VOX
 appstore WinArchiver Lite
+appstore Xcode
