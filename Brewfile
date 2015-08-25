@@ -6,7 +6,6 @@ tap caskroom/cask
 brew brew-cask
 cask alfred
 cask appcleaner
-cask appzapper
 cask atom
 cask bartender
 cask bathyscaphe
@@ -25,7 +24,6 @@ cask google-chrome
 cask google-drive
 cask google-japanese-ime
 cask hipchat
-cask hocus-focus
 cask hyperswitch
 cask ifunbox
 cask intellij-idea
@@ -110,10 +108,6 @@ brew mpfr2
 
 ## jubatus/jubatus
 tap jubatus/jubatus
-
-## neovim/neovim
-tap neovim/neovim
-brew neovim --HEAD
 
 ## peco/peco
 tap peco/peco
