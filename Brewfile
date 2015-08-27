@@ -15,6 +15,7 @@ cask colors
 cask cooviewer
 cask coteditor
 cask dropbox
+cask dockertoolbox
 cask eclipse-java
 cask firefox
 cask flash-player
@@ -136,7 +137,6 @@ brew apr-util
 brew autoconf
 brew automake
 brew bdw-gc
-brew boot2docker
 brew bsdmake
 brew chipmunk
 brew cloog
