@@ -14,13 +14,13 @@ cask chicken
 cask colors
 cask cooviewer
 cask coteditor
-cask dropbox
 cask dockertoolbox
+cask dropbox
 cask eclipse-java
 cask firefox
 cask flash-player
 cask genymotion
-cask github
+cask github-desktop
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
@@ -154,6 +154,7 @@ brew eigen
 brew elinks
 brew etcd
 brew fig
+brew fleetctl
 brew freetype
 brew gcc
 brew gdbm
@@ -203,6 +204,7 @@ brew nginx
 brew nkf
 brew node
 brew nvm
+brew oniguruma
 brew openexr
 brew openssl
 brew pcre
@@ -242,6 +244,7 @@ brew w3m
 brew watch
 brew weechat
 brew wget
+brew xhyve
 brew xz
 brew z
 brew zeromq
@@ -258,7 +261,6 @@ appstore Deckset
 appstore Degrees
 appstore Disk Diag
 appstore Evernote
-appstore Go for Facebook
 appstore Growl
 appstore Howler Timer
 appstore iMovie
@@ -280,7 +282,6 @@ appstore ReadKit
 appstore Shazam
 appstore Skitch
 appstore SoraAnnai
-appstore SourceTree
 appstore Sparrow
 appstore SpriteBuilder
 appstore StuffIt Expander
