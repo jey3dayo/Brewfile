@@ -53,7 +53,6 @@ cask the-unarchiver
 cask thunderbird
 cask tunnelblick
 cask vagrant
-cask virtualbox
 cask visual-studio-code
 cask vlc
 cask vmware-fusion
@@ -198,6 +197,7 @@ brew mercurial
 brew mobile-shell
 brew mpfr
 brew msgpack
+brew mycli
 brew mysql
 brew nettle
 brew nginx
