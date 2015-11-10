@@ -10,6 +10,7 @@ cask atom
 cask bartender
 cask bathyscaphe
 cask bettertouchtool
+cask chefdk
 cask chicken
 cask colors
 cask cooviewer
@@ -19,7 +20,6 @@ cask dropbox
 cask eclipse-java
 cask firefox
 cask flash-player
-cask genymotion
 cask github-desktop
 cask google-chrome
 cask google-drive
@@ -33,7 +33,6 @@ cask istumbler
 cask iterm2
 cask java
 cask keycastr
-cask krita
 cask lastfm
 cask league-of-legends
 cask licecap
@@ -41,6 +40,7 @@ cask macdown
 cask musicbrainz-picard
 cask notifyr
 cask razer-synapse
+cask seil
 cask sequel-pro
 cask skype
 cask slack
@@ -53,6 +53,7 @@ cask the-unarchiver
 cask thunderbird
 cask tunnelblick
 cask vagrant
+cask virtualbox
 cask visual-studio-code
 cask vlc
 cask vmware-fusion
@@ -80,12 +81,9 @@ tap homebrew/binary
 tap homebrew/dupes
 brew grep --with-default-names
 brew make
-brew zlib
 
 ## homebrew/php
 tap homebrew/php
-brew composer
-brew php56-ioncubeloader
 brew php56-redland
 brew php56
 
@@ -122,8 +120,8 @@ tap sanemat/font
 
 ## supermomonga/splhack
 tap supermomonga/splhack
-brew cmigemo-mk --HEAD
-brew ctags-objc-ja --HEAD
+brew cmigemo-mk
+brew ctags-objc-ja
 brew gettext-mk
 
 # Other Homebrew packages
@@ -142,17 +140,18 @@ brew cloog
 brew cmake
 brew cmigemo
 brew colordiff
+brew composer
 brew coreutils
 brew cscope
 brew ctags
 brew direnv
 brew docker
+brew docker-compose
 brew docker-machine
 brew docker-swarm
 brew eigen
 brew elinks
 brew etcd
-brew fig
 brew fleetctl
 brew freetype
 brew gcc
@@ -177,6 +176,7 @@ brew isl
 brew jmeter
 brew jpeg
 brew jq
+brew kafka
 brew kubernetes-cli
 brew libevent
 brew libgcrypt
@@ -186,9 +186,11 @@ brew libpng
 brew libtasn1
 brew libtiff
 brew libtool
+brew libxml2
 brew libyaml
 brew llvm
 brew lua
+brew luajit
 brew lynx
 brew makedepend
 brew maven
@@ -209,6 +211,7 @@ brew openexr
 brew openssl
 brew pcre
 brew perl-build
+brew php56-ioncubeloader
 brew pkg-config
 brew plenv
 brew polipo
@@ -228,11 +231,13 @@ brew redland
 brew rethinkdb
 brew ruby
 brew ruby-build
+brew s3cmd
 brew sbt
 brew scala
 brew shellcheck
 brew sqlite
 brew the_silver_searcher
+brew thefuck
 brew tmux
 brew tomcat
 brew tree
@@ -248,19 +253,24 @@ brew xhyve
 brew xz
 brew z
 brew zeromq
+brew zlib
+brew zookeeper
 brew zsh
 brew zsh-completions
 
 # App Store applications
 appstore 1Keyboard
 appstore 1Password
+appstore App for Instagram
 appstore Caffeine
 appstore DaisyDisk
 appstore Dash
 appstore Deckset
 appstore Degrees
 appstore Disk Diag
+appstore DrCleaner
 appstore Evernote
+appstore GIF Keyboard
 appstore Growl
 appstore Howler Timer
 appstore iMovie
