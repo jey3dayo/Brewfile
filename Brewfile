@@ -134,6 +134,7 @@ brew apr-util
 brew autoconf
 brew automake
 brew bdw-gc
+brew boost
 brew bsdmake
 brew chipmunk
 brew cloog
@@ -204,8 +205,8 @@ brew mysql
 brew nettle
 brew nginx
 brew nkf
-brew node
-brew nvm
+brew node --with-full-icu
+brew nodebrew
 brew oniguruma
 brew openexr
 brew openssl
