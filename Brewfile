@@ -66,7 +66,6 @@ cask font-source-code-pro
 
 ## caskroom/versions
 tap caskroom/versions
-cask airmail-beta
 cask java7
 cask macvim-kaoriya
 
@@ -142,6 +141,7 @@ brew cmake
 brew cmigemo
 brew colordiff
 brew composer
+brew consul
 brew coreutils
 brew cscope
 brew ctags
@@ -245,6 +245,7 @@ brew tree
 brew unar
 brew unbound
 brew unixodbc
+brew vault
 brew vim
 brew w3m
 brew watch
@@ -268,7 +269,6 @@ appstore DaisyDisk
 appstore Dash
 appstore Deckset
 appstore Degrees
-appstore Disk Diag
 appstore DrCleaner
 appstore Evernote
 appstore GIF Keyboard
