@@ -1,9 +1,7 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
-brew brew-cask
 cask alfred
 cask appcleaner
 cask atom
@@ -50,74 +48,58 @@ cask td-agent
 cask teamspeak-client
 cask teamviewer
 cask the-unarchiver
-cask thunderbird
 cask tunnelblick
 cask vagrant
+cask versions
 cask virtualbox
 cask visual-studio-code
 cask vlc
 cask vmware-fusion
 cask vox-preferences-pane
 
-## caskroom/fonts
 tap caskroom/fonts
 cask font-inconsolata
 cask font-source-code-pro
 
-## caskroom/versions
 tap caskroom/versions
 cask java7
 cask macvim-kaoriya
 
-## homebrew/apache
 tap homebrew/apache
 brew httpd24
 
-## homebrew/binary
 tap homebrew/binary
 
-## homebrew/dupes
 tap homebrew/dupes
 brew grep --with-default-names
 brew make
 
-## homebrew/php
 tap homebrew/php
 brew php56-redland
 brew php56
 
-## homebrew/python
 tap homebrew/python
 brew numpy
 
-## homebrew/science
 tap homebrew/science
 brew opencv
 
-## homebrew/versions
 tap homebrew/versions
-brew android-ndk-r9d
 brew cloog018
 brew gmp4
 brew isl011
 brew libmpc08
 brew mpfr2
+brew tomcat6
 
-## jubatus/jubatus
-tap jubatus/jubatus
-
-## peco/peco
 tap peco/peco
 brew peco
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
-## sanemat/font
 tap sanemat/font
 
-## supermomonga/splhack
 tap supermomonga/splhack
 brew cmigemo-mk
 brew ctags-objc-ja
@@ -125,7 +107,6 @@ brew gettext-mk
 
 # Other Homebrew packages
 brew ack
-brew android-sdk
 brew ant
 brew apache-spark
 brew apr
@@ -174,6 +155,7 @@ brew icu4c
 brew ilmbase
 brew imagemagick
 brew isl
+brew jenv
 brew jmeter
 brew jpeg
 brew jq
@@ -274,7 +256,6 @@ appstore Evernote
 appstore GIF Keyboard
 appstore Growl
 appstore Howler Timer
-appstore iMovie
 appstore iPhoto
 appstore Keynote
 appstore Kobito
@@ -297,7 +278,6 @@ appstore Sparrow
 appstore SpriteBuilder
 appstore StuffIt Expander
 appstore Sunrise Calendar
-appstore The Unarchiver
 appstore Todoist
 appstore Tweetbot
 appstore VisualJSON
