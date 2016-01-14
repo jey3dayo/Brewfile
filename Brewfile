@@ -31,6 +31,7 @@ cask istumbler
 cask iterm2
 cask java
 cask keycastr
+cask kindle
 cask lastfm
 cask league-of-legends
 cask licecap
@@ -71,7 +72,9 @@ brew httpd24
 tap homebrew/binary
 
 tap homebrew/dupes
+brew apple-gcc42
 brew grep --with-default-names
+brew libiconv
 brew make
 
 tap homebrew/php
@@ -170,6 +173,7 @@ brew libtasn1
 brew libtiff
 brew libtool
 brew libxml2
+brew libxslt
 brew libyaml
 brew llvm
 brew lua
@@ -187,7 +191,7 @@ brew mysql
 brew nettle
 brew nginx
 brew nkf
-brew node --with-full-icu
+brew node --with-full-icu --with-full-icu
 brew nodebrew
 brew oniguruma
 brew openexr
