@@ -10,7 +10,6 @@ cask bathyscaphe
 cask bettertouchtool
 cask chefdk
 cask chicken
-cask colors
 cask cooviewer
 cask coteditor
 cask dockertoolbox
@@ -191,7 +190,7 @@ brew mysql
 brew nettle
 brew nginx
 brew nkf
-brew node --with-full-icu --with-full-icu
+brew node --with-full-icu
 brew nodebrew
 brew oniguruma
 brew openexr
