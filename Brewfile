@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
 tap caskroom/cask
 cask alfred
 cask appcleaner
@@ -37,6 +40,7 @@ cask licecap
 cask macdown
 cask musicbrainz-picard
 cask notifyr
+cask obs
 cask razer-synapse
 cask seil
 cask sequel-pro
@@ -190,7 +194,7 @@ brew mysql
 brew nettle
 brew nginx
 brew nkf
-brew node --with-full-icu
+brew node --with-full-icu --with-full-icu
 brew nodebrew
 brew oniguruma
 brew openexr
@@ -244,46 +248,3 @@ brew zlib
 brew zookeeper
 brew zsh
 brew zsh-completions
-
-# App Store applications
-appstore 1Keyboard
-appstore 1Password
-appstore App for Instagram
-appstore Caffeine
-appstore DaisyDisk
-appstore Dash
-appstore Deckset
-appstore Degrees
-appstore DrCleaner
-appstore Evernote
-appstore GIF Keyboard
-appstore Growl
-appstore Howler Timer
-appstore iPhoto
-appstore Keynote
-appstore Kobito
-appstore LimeChat
-appstore LINE
-appstore MenuTab for Facebook
-appstore Microsoft Remote Desktop
-appstore Numbers
-appstore Pages
-appstore Pixelmator
-appstore Pixlr
-appstore Pocket
-appstore PopClip
-appstore Pushbullet
-appstore ReadKit
-appstore Shazam
-appstore Skitch
-appstore SoraAnnai
-appstore Sparrow
-appstore SpriteBuilder
-appstore StuffIt Expander
-appstore Sunrise Calendar
-appstore Todoist
-appstore Tweetbot
-appstore VisualJSON
-appstore VOX
-appstore WinArchiver Lite
-appstore Xcode
