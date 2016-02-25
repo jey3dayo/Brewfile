@@ -14,7 +14,6 @@ cask bettertouchtool
 cask chefdk
 cask chicken
 cask cooviewer
-cask coteditor
 cask dockertoolbox
 cask dropbox
 cask eclipse-java
@@ -45,7 +44,6 @@ cask razer-synapse
 cask seil
 cask sequel-pro
 cask skype
-cask slack
 cask sourcetree
 cask spotify
 cask td-agent
