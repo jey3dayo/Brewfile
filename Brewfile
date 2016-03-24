@@ -14,7 +14,6 @@ cask bettertouchtool
 cask chefdk
 cask chicken
 cask cooviewer
-cask dockertoolbox
 cask dropbox
 cask eclipse-java
 cask firefox
@@ -40,7 +39,6 @@ cask macdown
 cask musicbrainz-picard
 cask notifyr
 cask obs
-cask razer-synapse
 cask seil
 cask sequel-pro
 cask skype
@@ -56,7 +54,6 @@ cask versions
 cask virtualbox
 cask visual-studio-code
 cask vlc
-cask vmware-fusion
 cask vox-preferences-pane
 
 tap caskroom/fonts
@@ -64,11 +61,7 @@ cask font-inconsolata
 cask font-source-code-pro
 
 tap caskroom/versions
-cask java7
 cask macvim-kaoriya
-
-tap homebrew/apache
-brew httpd24
 
 tap homebrew/binary
 
@@ -78,36 +71,17 @@ brew grep --with-default-names
 brew libiconv
 brew make
 
-tap homebrew/php
-brew php56-redland
-brew php56
-
 tap homebrew/python
 brew numpy
 
 tap homebrew/science
 brew opencv
 
-tap homebrew/versions
-brew cloog018
-brew gmp4
-brew isl011
-brew libmpc08
-brew mpfr2
-brew tomcat6
-
 tap peco/peco
 brew peco
 
 tap rcmdnk/file
 brew brew-file
-
-tap sanemat/font
-
-tap supermomonga/splhack
-brew cmigemo-mk
-brew ctags-objc-ja
-brew gettext-mk
 
 # Other Homebrew packages
 brew ack
@@ -145,7 +119,6 @@ brew gdbm
 brew gettext
 brew ghc
 brew git
-brew giter8
 brew gmp
 brew gnu-sed --default-names
 brew gnu-tar
@@ -163,8 +136,6 @@ brew jenv
 brew jmeter
 brew jpeg
 brew jq
-brew kafka
-brew kubernetes-cli
 brew libevent
 brew libgcrypt
 brew libgpg-error
@@ -199,7 +170,6 @@ brew openexr
 brew openssl
 brew pcre
 brew perl-build
-brew php56-ioncubeloader
 brew pkg-config
 brew plenv
 brew polipo
@@ -230,7 +200,6 @@ brew tmux
 brew tomcat
 brew tree
 brew unar
-brew unbound
 brew unixodbc
 brew vault
 brew vim
