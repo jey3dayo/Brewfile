@@ -163,7 +163,7 @@ brew mysql
 brew nettle
 brew nginx
 brew nkf
-brew node --with-full-icu --with-full-icu
+brew node
 brew nodebrew
 brew oniguruma
 brew openexr
