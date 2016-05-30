@@ -12,11 +12,9 @@ cask bartender
 cask bathyscaphe
 cask bettertouchtool
 cask chefdk
-cask chicken
 cask cooviewer
 cask dropbox
 cask eclipse-java
-cask firefox
 cask flash-player
 cask github-desktop
 cask google-chrome
@@ -36,9 +34,10 @@ cask lastfm
 cask league-of-legends
 cask licecap
 cask macdown
-cask musicbrainz-picard
+cask near-lock
 cask notifyr
 cask obs
+cask pg-commander
 cask seil
 cask sequel-pro
 cask skype
@@ -47,12 +46,12 @@ cask spotify
 cask td-agent
 cask teamspeak-client
 cask teamviewer
-cask the-unarchiver
 cask tunnelblick
 cask vagrant
 cask versions
 cask virtualbox
 cask visual-studio-code
+cask vivaldi
 cask vlc
 cask vox-preferences-pane
 
@@ -62,34 +61,23 @@ cask font-source-code-pro
 
 tap caskroom/versions
 cask macvim-kaoriya
+cask sublime-text3
+
+tap codekitchen/dinghy
+brew dinghy
 
 tap homebrew/binary
 
-tap homebrew/dupes
-brew apple-gcc42
-brew grep --with-default-names
-brew libiconv
-brew make
+tap homebrew/bundle
 
-tap homebrew/python
-brew numpy
-
-tap homebrew/science
-brew opencv
-
-tap peco/peco
-brew peco
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
+tap homebrew/core
 brew ack
 brew ant
 brew apache-spark
-brew apr
 brew apr-util
+brew apr
 brew autoconf
+brew autojump
 brew automake
 brew bdw-gc
 brew boost
@@ -99,16 +87,16 @@ brew cloog
 brew cmake
 brew cmigemo
 brew colordiff
-brew composer
 brew consul
 brew coreutils
 brew cscope
 brew ctags
 brew direnv
-brew docker
+brew dnsmasq
 brew docker-compose
 brew docker-machine
 brew docker-swarm
+brew docker
 brew eigen
 brew elinks
 brew etcd
@@ -126,7 +114,8 @@ brew gnutls
 brew go
 brew gradle
 brew graphicsmagick
-brew heroku-toolbelt
+brew hadoop
+brew heroku
 brew htop-osx
 brew icu4c
 brew ilmbase
@@ -151,6 +140,7 @@ brew llvm
 brew lua
 brew luajit
 brew lynx
+brew lzo
 brew makedepend
 brew maven
 brew mecab
@@ -163,16 +153,18 @@ brew mysql
 brew nettle
 brew nginx
 brew nkf
-brew node
 brew nodebrew
 brew oniguruma
 brew openexr
 brew openssl
+brew openvpn
 brew pcre
+brew peco
 brew perl-build
 brew pkg-config
 brew plenv
 brew polipo
+brew postgresql
 brew proctools
 brew protobuf
 brew python
@@ -187,22 +179,24 @@ brew reattach-to-user-namespace
 brew redis
 brew redland
 brew rethinkdb
-brew ruby
 brew ruby-build
+brew ruby
 brew s3cmd
 brew sbt
 brew scala
 brew shellcheck
 brew sqlite
+brew stoken
 brew the_silver_searcher
 brew thefuck
 brew tmux
 brew tomcat
 brew tree
 brew unar
+brew unfs3
 brew unixodbc
 brew vault
-brew vim
+brew vim --with-luajit
 brew w3m
 brew watch
 brew weechat
@@ -211,7 +205,48 @@ brew xhyve
 brew xz
 brew z
 brew zeromq
-brew zlib
 brew zookeeper
-brew zsh
 brew zsh-completions
+brew zsh
+
+tap homebrew/dupes
+brew apple-gcc42
+brew grep --with-default-names
+brew libiconv
+brew make
+brew zlib
+
+tap homebrew/php
+brew composer
+brew php70
+
+tap homebrew/python
+brew numpy
+
+tap homebrew/science
+brew opencv
+
+tap homebrew/versions
+brew cloog018
+brew gmp4
+brew isl011
+brew libmpc08
+brew mpfr2
+
+tap neovim/neovim
+brew neovim
+
+tap peco/peco
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+
+tap supermomonga/splhack
+brew cmigemo-mk --HEAD
+brew ctags-objc-ja --HEAD
+brew gettext-mk
+
+# App Store applications
+appstore No installed apps found
