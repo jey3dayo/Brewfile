@@ -249,4 +249,36 @@ brew ctags-objc-ja --HEAD
 brew gettext-mk
 
 # App Store applications
-appstore No installed apps found
+appstore 766939888 1Keyboard
+appstore 443987910 1Password
+appstore 1024640650 CotEditor
+appstore 411643860 DaisyDisk
+appstore 449589707 Dash
+appstore 847496013 Deckset
+appstore 921458519 DrCleaner
+appstore 406056744 Evernote
+appstore 428846772 Howler Timer
+appstore 409183694 Keynote
+appstore 896624060 Kobito
+appstore 539883307 LINE
+appstore 414030210 LimeChat
+appstore 421358730 MenuTab for Facebook
+appstore 715768417 Microsoft Remote Desktop
+appstore 409203825 Numbers
+appstore 409201541 Pages
+appstore 407963104 Pixelmator
+appstore 445189367 PopClip
+appstore 948415170 Pushbullet
+appstore 588726889 ReadKit
+appstore 897118787 Shazam
+appstore 425955336 Skitch
+appstore 803453959 Slack
+appstore 599799247 SoraAnnai
+appstore 784912885 SpriteBuilder
+appstore 919269455 StuffIt Expander 16
+appstore 886106985 Sunrise Calendar
+appstore 585829637 Todoist
+appstore 557168941 Tweetbot
+appstore 461369673 VOX
+appstore 414855915 WinArchiver Lite
+appstore 497799835 Xcode
