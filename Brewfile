@@ -61,7 +61,7 @@ cask font-source-code-pro
 
 tap caskroom/versions
 cask macvim-kaoriya
-cask sublime-text3
+cask sublime-text
 
 tap codekitchen/dinghy
 brew dinghy
