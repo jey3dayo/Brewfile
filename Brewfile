@@ -106,7 +106,6 @@ brew freetype
 brew gcc
 brew gdbm
 brew gettext
-brew ghc
 brew git
 brew gmp
 brew gnu-sed --default-names
