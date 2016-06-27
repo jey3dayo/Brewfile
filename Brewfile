@@ -43,6 +43,7 @@ cask sequel-pro
 cask skype
 cask sourcetree
 cask spotify
+cask sublime-text
 cask td-agent
 cask teamspeak-client
 cask teamviewer
@@ -61,7 +62,6 @@ cask font-source-code-pro
 
 tap caskroom/versions
 cask macvim-kaoriya
-cask sublime-text
 
 tap codekitchen/dinghy
 brew dinghy
@@ -72,6 +72,7 @@ tap homebrew/bundle
 
 tap homebrew/core
 brew ack
+brew ansible
 brew ant
 brew apache-spark
 brew apr-util
@@ -117,6 +118,7 @@ brew graphicsmagick
 brew hadoop
 brew heroku
 brew htop-osx
+brew httping
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -158,6 +160,7 @@ brew oniguruma
 brew openexr
 brew openssl
 brew openvpn
+brew patchutils
 brew pcre
 brew peco
 brew perl-build
@@ -185,6 +188,7 @@ brew s3cmd
 brew sbt
 brew scala
 brew shellcheck
+brew solr
 brew sqlite
 brew stoken
 brew the_silver_searcher
