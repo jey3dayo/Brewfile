@@ -20,7 +20,6 @@ cask github-desktop
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
-cask hipchat
 cask hyperswitch
 cask ifunbox
 cask intellij-idea
@@ -28,12 +27,10 @@ cask istat-menus
 cask istumbler
 cask iterm2
 cask java
-cask keycastr
 cask kindle
 cask lastfm
 cask league-of-legends
 cask licecap
-cask macdown
 cask near-lock
 cask notifyr
 cask obs
@@ -47,12 +44,10 @@ cask sublime-text
 cask td-agent
 cask teamspeak-client
 cask teamviewer
-cask tunnelblick
 cask vagrant
 cask versions
 cask virtualbox
 cask visual-studio-code
-cask vivaldi
 cask vlc
 cask vox-preferences-pane
 
@@ -80,6 +75,7 @@ brew apr
 brew autoconf
 brew autojump
 brew automake
+brew axel
 brew bdw-gc
 brew boost
 brew bsdmake
@@ -118,6 +114,7 @@ brew hadoop
 brew heroku
 brew htop-osx
 brew httping
+brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -127,6 +124,7 @@ brew jmeter
 brew jpeg
 brew jq
 brew libevent
+brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libmpc
@@ -199,7 +197,7 @@ brew unar
 brew unfs3
 brew unixodbc
 brew vault
-brew vim --with-luajit
+brew vim --with-luajit --HEAD
 brew w3m
 brew watch
 brew weechat
@@ -280,6 +278,7 @@ appstore 599799247 SoraAnnai
 appstore 784912885 SpriteBuilder
 appstore 919269455 StuffIt Expander 16
 appstore 886106985 Sunrise Calendar
+appstore 425424353 The Unarchiver
 appstore 585829637 Todoist
 appstore 557168941 Tweetbot
 appstore 461369673 VOX
