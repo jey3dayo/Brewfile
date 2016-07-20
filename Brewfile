@@ -53,7 +53,9 @@ cask vox-preferences-pane
 
 tap caskroom/fonts
 cask font-inconsolata
+cask font-sauce-code-powerline
 cask font-source-code-pro
+cask font-source-han-code-jp
 
 tap caskroom/versions
 cask macvim-kaoriya
@@ -118,6 +120,7 @@ brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
+brew iproute2mac
 brew isl
 brew jenv
 brew jmeter
