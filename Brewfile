@@ -31,10 +31,12 @@ cask kindle
 cask lastfm
 cask league-of-legends
 cask licecap
+cask mysqlworkbench
 cask near-lock
 cask notifyr
 cask obs
 cask pg-commander
+cask quitter
 cask seil
 cask sequel-pro
 cask skype
@@ -50,6 +52,7 @@ cask virtualbox
 cask visual-studio-code
 cask vlc
 cask vox-preferences-pane
+cask xquartz
 
 tap caskroom/fonts
 cask font-inconsolata
@@ -59,9 +62,6 @@ cask font-source-han-code-jp
 
 tap caskroom/versions
 cask macvim-kaoriya
-
-tap codekitchen/dinghy
-brew dinghy
 
 tap homebrew/binary
 
@@ -78,6 +78,7 @@ brew autoconf
 brew autojump
 brew automake
 brew axel
+brew bash-completion
 brew bdw-gc
 brew boost
 brew bsdmake
@@ -90,6 +91,7 @@ brew consul
 brew coreutils
 brew cscope
 brew ctags
+brew digdag
 brew direnv
 brew dnsmasq
 brew docker-compose
@@ -98,6 +100,7 @@ brew docker-swarm
 brew docker
 brew eigen
 brew elinks
+brew embulk
 brew etcd
 brew fleetctl
 brew freetype
@@ -246,11 +249,6 @@ tap rcmdnk/file
 brew brew-file
 
 tap sanemat/font
-
-tap supermomonga/splhack
-brew cmigemo-mk --HEAD
-brew ctags-objc-ja --HEAD
-brew gettext-mk
 
 # App Store applications
 appstore 766939888 1Keyboard
