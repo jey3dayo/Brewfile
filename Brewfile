@@ -72,8 +72,8 @@ brew ack
 brew ansible
 brew ant
 brew apache-spark
-brew apr-util
 brew apr
+brew apr-util
 brew autoconf
 brew autojump
 brew automake
@@ -94,10 +94,10 @@ brew ctags
 brew digdag
 brew direnv
 brew dnsmasq
+brew docker
 brew docker-compose
 brew docker-machine
 brew docker-swarm
-brew docker
 brew eigen
 brew elinks
 brew embulk
@@ -185,8 +185,8 @@ brew reattach-to-user-namespace
 brew redis
 brew redland
 brew rethinkdb
-brew ruby-build
 brew ruby
+brew ruby-build
 brew s3cmd
 brew sbt
 brew scala
@@ -194,6 +194,7 @@ brew shellcheck
 brew solr
 brew sqlite
 brew stoken
+brew the_platinum_searcher
 brew the_silver_searcher
 brew thefuck
 brew tmux
@@ -213,8 +214,8 @@ brew xz
 brew z
 brew zeromq
 brew zookeeper
-brew zsh-completions
 brew zsh
+brew zsh-completions
 
 tap homebrew/dupes
 brew apple-gcc42
@@ -259,6 +260,7 @@ appstore 449589707 Dash
 appstore 847496013 Deckset
 appstore 921458519 DrCleaner
 appstore 406056744 Evernote
+appstore 792425898 Flume
 appstore 428846772 Howler Timer
 appstore 409183694 Keynote
 appstore 896624060 Kobito
