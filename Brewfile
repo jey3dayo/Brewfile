@@ -117,7 +117,6 @@ brew gnutls
 brew go
 brew gradle
 brew graphicsmagick
-brew hadoop
 brew heroku
 brew htop-osx
 brew httping
@@ -195,12 +194,10 @@ brew s3cmd
 brew sbt
 brew scala
 brew shellcheck
-brew solr
 brew sqlite
 brew stoken
 brew the_platinum_searcher
 brew the_silver_searcher
-brew thefuck
 brew tmux --HEAD
 brew tomcat
 brew tree
@@ -209,11 +206,10 @@ brew unfs3
 brew unixodbc
 brew utf8proc
 brew vault
+brew vim --with-lua --with-luajit
 brew w3m
 brew watch
-brew weechat
 brew wget
-brew xhyve
 brew xz
 brew z
 brew zeromq
@@ -270,7 +266,6 @@ appstore 896624060 Kobito (2.3.8)
 appstore 539883307 LINE (4.9.0)
 appstore 414030210 LimeChat (2.42)
 appstore 421358730 MenuTab for Facebook (6.9)
-appstore 715768417 Microsoft Remote Desktop (8.0.27181)
 appstore 715768417 Microsoft Remote Desktop_8027218 (8.0.27218)
 appstore 409203825 Numbers (4.0)
 appstore 409201541 Pages (6.0)
