@@ -11,10 +11,10 @@ cask atom
 cask bartender
 cask bathyscaphe
 cask bettertouchtool
-cask chefdk
 cask cooviewer
 cask dropbox
 cask eclipse-java
+cask firefox
 cask flash-player
 cask github-desktop
 cask google-chrome
@@ -62,6 +62,7 @@ cask font-source-han-code-jp
 
 tap caskroom/versions
 cask macvim-kaoriya
+cask slack-beta
 
 tap homebrew/binary
 
@@ -95,6 +96,7 @@ brew digdag
 brew direnv
 brew dnsmasq
 brew docker
+brew docker-clean
 brew docker-compose
 brew docker-machine
 brew docker-swarm
@@ -173,6 +175,8 @@ brew polipo
 brew postgresql
 brew proctools
 brew protobuf
+brew pyenv
+brew pyenv-virtualenv
 brew python
 brew qt
 brew rainbarf
@@ -197,14 +201,14 @@ brew stoken
 brew the_platinum_searcher
 brew the_silver_searcher
 brew thefuck
-brew tmux
+brew tmux --HEAD
 brew tomcat
 brew tree
 brew unar
 brew unfs3
 brew unixodbc
+brew utf8proc
 brew vault
-brew vim --with-luajit --HEAD
 brew w3m
 brew watch
 brew weechat
@@ -252,38 +256,37 @@ brew brew-file
 tap sanemat/font
 
 # App Store applications
-appstore 766939888 1Keyboard
-appstore 443987910 1Password
-appstore 1024640650 CotEditor
-appstore 411643860 DaisyDisk
-appstore 449589707 Dash
-appstore 847496013 Deckset
-appstore 921458519 DrCleaner
-appstore 406056744 Evernote
-appstore 792425898 Flume
-appstore 428846772 Howler Timer
-appstore 409183694 Keynote
-appstore 896624060 Kobito
-appstore 539883307 LINE
-appstore 414030210 LimeChat
-appstore 421358730 MenuTab for Facebook
-appstore 715768417 Microsoft Remote Desktop
-appstore 409203825 Numbers
-appstore 409201541 Pages
-appstore 407963104 Pixelmator
-appstore 445189367 PopClip
-appstore 948415170 Pushbullet
-appstore 588726889 ReadKit
-appstore 897118787 Shazam
-appstore 425955336 Skitch
-appstore 803453959 Slack
-appstore 599799247 SoraAnnai
-appstore 784912885 SpriteBuilder
-appstore 919269455 StuffIt Expander 16
-appstore 886106985 Sunrise Calendar
-appstore 425424353 The Unarchiver
-appstore 585829637 Todoist
-appstore 557168941 Tweetbot
-appstore 461369673 VOX
-appstore 414855915 WinArchiver Lite
-appstore 497799835 Xcode
+appstore 766939888 1Keyboard (2.6)
+appstore 443987910 1Password (6.3.3)
+appstore 1024640650 CotEditor (3.0.1)
+appstore 411643860 DaisyDisk (4.2)
+appstore 449589707 Dash (3.3.1)
+appstore 847496013 Deckset (1.6.3)
+appstore 406056744 Evernote (6.9.2)
+appstore 792425898 Flume (2.3)
+appstore 428846772 Howler Timer (1.5.1)
+appstore 409183694 Keynote (7.0)
+appstore 896624060 Kobito (2.3.8)
+appstore 539883307 LINE (4.9.0)
+appstore 414030210 LimeChat (2.42)
+appstore 421358730 MenuTab for Facebook (6.9)
+appstore 715768417 Microsoft Remote Desktop (8.0.27181)
+appstore 715768417 Microsoft Remote Desktop_8027218 (8.0.27218)
+appstore 409203825 Numbers (4.0)
+appstore 409201541 Pages (6.0)
+appstore 407963104 Pixelmator (3.5.1)
+appstore 445189367 PopClip (1.5.6)
+appstore 948415170 Pushbullet (4)
+appstore 588726889 ReadKit (2.4.3)
+appstore 897118787 Shazam (1.1.2)
+appstore 425955336 Skitch (2.7.8)
+appstore 599799247 SoraAnnai (2.0.7)
+appstore 784912885 SpriteBuilder (1.4.9)
+appstore 919269455 StuffIt Expander 16 (16.0.5)
+appstore 886106985 Sunrise Calendar (1.10)
+appstore 425424353 The Unarchiver (3.11.1)
+appstore 585829637 Todoist (6.3.16)
+appstore 557168941 Tweetbot (2.4.4)
+appstore 461369673 VOX (2.8.7)
+appstore 414855915 WinArchiver Lite (2.5.2)
+appstore 497799835 Xcode (8.0)
