@@ -43,9 +43,7 @@ cask skype
 cask sourcetree
 cask spotify
 cask sublime-text
-cask td-agent
 cask teamspeak-client
-cask teamviewer
 cask vagrant
 cask versions
 cask virtualbox
@@ -72,7 +70,6 @@ tap homebrew/core
 brew ack
 brew ansible
 brew ant
-brew apache-spark
 brew apr
 brew apr-util
 brew autoconf
@@ -112,7 +109,7 @@ brew gettext
 brew git
 brew gmp
 brew gnu-sed --default-names
-brew gnu-tar
+brew gnu-tar --with-default-names
 brew gnutls
 brew go
 brew gradle
@@ -126,7 +123,6 @@ brew ilmbase
 brew imagemagick
 brew iproute2mac
 brew isl
-brew jenv
 brew jmeter
 brew jpeg
 brew jq
@@ -169,7 +165,6 @@ brew pcre
 brew peco
 brew perl-build
 brew pkg-config
-brew plenv
 brew polipo
 brew postgresql
 brew proctools
