@@ -13,7 +13,6 @@ cask bathyscaphe
 cask bettertouchtool
 cask cooviewer
 cask dropbox
-cask eclipse-java
 cask firefox
 cask flash-player
 cask github-desktop
@@ -37,6 +36,7 @@ cask notifyr
 cask obs
 cask pg-commander
 cask quitter
+cask radiant-player
 cask seil
 cask sequel-pro
 cask skype
@@ -54,7 +54,7 @@ cask xquartz
 
 tap caskroom/fonts
 cask font-inconsolata
-cask font-sauce-code-powerline
+cask font-source-code-pro-for-powerline
 cask font-source-code-pro
 cask font-source-han-code-jp
 
@@ -159,6 +159,7 @@ brew nodebrew
 brew oniguruma
 brew openexr
 brew openssl
+brew openssl@1.1
 brew openvpn
 brew patchutils
 brew pcre
@@ -244,12 +245,10 @@ tap peco/peco
 tap rcmdnk/file
 brew brew-file
 
-tap sanemat/font
-
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
-appstore 443987910 1Password (6.3.3)
-appstore 1024640650 CotEditor (3.0.1)
+appstore 443987910 1Password (6.3.5)
+appstore 1024640650 CotEditor (3.0.3)
 appstore 411643860 DaisyDisk (4.2)
 appstore 449589707 Dash (3.3.1)
 appstore 847496013 Deckset (1.6.3)
@@ -258,10 +257,10 @@ appstore 792425898 Flume (2.3)
 appstore 428846772 Howler Timer (1.5.1)
 appstore 409183694 Keynote (7.0)
 appstore 896624060 Kobito (2.3.8)
-appstore 539883307 LINE (4.9.0)
+appstore 539883307 LINE (4.10.0)
 appstore 414030210 LimeChat (2.42)
 appstore 421358730 MenuTab for Facebook (6.9)
-appstore 715768417 Microsoft Remote Desktop_8027218 (8.0.27218)
+appstore 715768417 Microsoft Remote Desktop (8.0.27221)
 appstore 409203825 Numbers (4.0)
 appstore 409201541 Pages (6.0)
 appstore 407963104 Pixelmator (3.5.1)
@@ -270,12 +269,12 @@ appstore 948415170 Pushbullet (4)
 appstore 588726889 ReadKit (2.4.3)
 appstore 897118787 Shazam (1.1.2)
 appstore 425955336 Skitch (2.7.8)
-appstore 599799247 SoraAnnai (2.0.7)
+appstore 599799247 SoraAnnai (3.0.0)
 appstore 784912885 SpriteBuilder (1.4.9)
 appstore 919269455 StuffIt Expander 16 (16.0.5)
 appstore 886106985 Sunrise Calendar (1.10)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 585829637 Todoist (6.3.16)
+appstore 585829637 Todoist (6.3.17)
 appstore 557168941 Tweetbot (2.4.4)
 appstore 461369673 VOX (2.8.7)
 appstore 414855915 WinArchiver Lite (2.5.2)
