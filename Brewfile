@@ -11,6 +11,7 @@ cask atom
 cask bartender
 cask bathyscaphe
 cask bettertouchtool
+cask blisk
 cask cooviewer
 cask dropbox
 cask firefox
@@ -248,21 +249,21 @@ brew brew-file
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
 appstore 443987910 1Password (6.3.5)
-appstore 1024640650 CotEditor (3.0.3)
-appstore 411643860 DaisyDisk (4.2)
+appstore 1024640650 CotEditor (3.0.4)
+appstore 411643860 DaisyDisk (4.3)
 appstore 449589707 Dash (3.3.1)
 appstore 847496013 Deckset (1.6.3)
-appstore 406056744 Evernote (6.9.2)
+appstore 406056744 Evernote (6.10)
 appstore 792425898 Flume (2.3)
 appstore 428846772 Howler Timer (1.5.1)
-appstore 409183694 Keynote (7.0)
+appstore 409183694 Keynote (7.0.5)
 appstore 896624060 Kobito (2.3.8)
 appstore 539883307 LINE (4.10.0)
 appstore 414030210 LimeChat (2.42)
 appstore 421358730 MenuTab for Facebook (6.9)
 appstore 715768417 Microsoft Remote Desktop (8.0.27221)
-appstore 409203825 Numbers (4.0)
-appstore 409201541 Pages (6.0)
+appstore 409203825 Numbers (4.0.5)
+appstore 409201541 Pages (6.0.5)
 appstore 407963104 Pixelmator (3.5.1)
 appstore 445189367 PopClip (1.5.6)
 appstore 948415170 Pushbullet (4)
@@ -278,4 +279,4 @@ appstore 585829637 Todoist (6.3.17)
 appstore 557168941 Tweetbot (2.4.4)
 appstore 461369673 VOX (2.8.7)
 appstore 414855915 WinArchiver Lite (2.5.2)
-appstore 497799835 Xcode (8.0)
+appstore 497799835 Xcode (8.1)
