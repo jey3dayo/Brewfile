@@ -4,6 +4,8 @@
 tap argon/mas
 brew mas
 
+tap buo/cask-upgrade
+
 tap caskroom/cask
 cask alfred
 cask appcleaner
@@ -31,6 +33,7 @@ cask kindle
 cask lastfm
 cask league-of-legends
 cask licecap
+cask mono-mdk
 cask mysqlworkbench
 cask near-lock
 cask notifyr
@@ -51,6 +54,7 @@ cask virtualbox
 cask visual-studio-code
 cask vlc
 cask vox-preferences-pane
+cask xamarin-studio
 cask xquartz
 
 tap caskroom/fonts
@@ -71,6 +75,7 @@ tap homebrew/core
 brew ack
 brew ansible
 brew ant
+brew antigen
 brew apr
 brew apr-util
 brew autoconf
@@ -107,6 +112,7 @@ brew freetype
 brew gcc
 brew gdbm
 brew gettext
+brew ghq
 brew git
 brew gmp
 brew gnu-sed --default-names
@@ -124,6 +130,7 @@ brew ilmbase
 brew imagemagick
 brew iproute2mac
 brew isl
+brew jemalloc
 brew jmeter
 brew jpeg
 brew jq
@@ -134,8 +141,11 @@ brew libgpg-error
 brew libmpc
 brew libpng
 brew libtasn1
+brew libtermkey
 brew libtiff
 brew libtool
+brew libuv
+brew libvterm
 brew libxml2
 brew libxslt
 brew libyaml
@@ -149,6 +159,7 @@ brew maven
 brew mecab
 brew mercurial
 brew mobile-shell
+brew mono
 brew mpfr
 brew msgpack
 brew mycli
@@ -200,10 +211,11 @@ brew tomcat
 brew tree
 brew unar
 brew unfs3
+brew unibilium
 brew unixodbc
 brew utf8proc
 brew vault
-brew vim --with-lua --with-luajit
+brew vim --with-luajit
 brew w3m
 brew watch
 brew wget
@@ -248,9 +260,10 @@ brew brew-file
 
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
-appstore 443987910 1Password (6.5)
-appstore 1024640650 CotEditor (3.0.4)
-appstore 411643860 DaisyDisk (4.3)
+appstore 443987910 1Password (6.5.2)
+appstore 918858936 Airmail 3 (3.2.1)
+appstore 1024640650 CotEditor (3.1.1)
+appstore 411643860 DaisyDisk (4.3.2)
 appstore 449589707 Dash (3.3.1)
 appstore 847496013 Deckset (1.6.3)
 appstore 406056744 Evernote (6.10)
@@ -264,19 +277,19 @@ appstore 421358730 MenuTab for Facebook (6.9)
 appstore 715768417 Microsoft Remote Desktop (8.0.27228)
 appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
-appstore 407963104 Pixelmator (3.5.1)
+appstore 407963104 Pixelmator (3.6)
 appstore 445189367 PopClip (1.5.6)
 appstore 948415170 Pushbullet (4)
 appstore 588726889 ReadKit (2.4.3)
-appstore 897118787 Shazam (1.1.2)
+appstore 897118787 Shazam (1.2.1)
 appstore 425955336 Skitch (2.7.8)
 appstore 599799247 SoraAnnai (3.0.0)
 appstore 784912885 SpriteBuilder (1.4.9)
 appstore 919269455 StuffIt Expander 16 (16.0.5)
 appstore 886106985 Sunrise Calendar (1.10)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 585829637 Todoist (6.3.17)
-appstore 557168941 Tweetbot (2.4.4)
+appstore 585829637 Todoist (6.3.18)
+appstore 557168941 Tweetbot (2.4.5)
 appstore 461369673 VOX (2.8.7)
 appstore 414855915 WinArchiver Lite (2.5.2)
 appstore 497799835 Xcode (8.1)
