@@ -44,7 +44,6 @@ cask radiant-player
 cask seil
 cask sequel-pro
 cask skype
-cask sourcetree
 cask spotify
 cask sublime-text
 cask teamspeak-client
@@ -68,6 +67,9 @@ cask macvim-kaoriya
 cask slack-beta
 
 tap homebrew/binary
+
+tap homebrew/boneyard
+brew unfs3
 
 tap homebrew/bundle
 
@@ -115,7 +117,7 @@ brew gettext
 brew ghq
 brew git
 brew gmp
-brew gnu-sed --default-names
+brew gnu-sed --with-default-names
 brew gnu-tar --with-default-names
 brew gnutls
 brew go
@@ -131,6 +133,7 @@ brew imagemagick
 brew iproute2mac
 brew isl
 brew jemalloc
+brew jid
 brew jmeter
 brew jpeg
 brew jq
@@ -202,6 +205,7 @@ brew s3cmd
 brew sbt
 brew scala
 brew shellcheck
+brew solr
 brew sqlite
 brew stoken
 brew the_platinum_searcher
@@ -210,7 +214,6 @@ brew tmux --HEAD
 brew tomcat
 brew tree
 brew unar
-brew unfs3
 brew unibilium
 brew unixodbc
 brew utf8proc
@@ -258,11 +261,13 @@ tap peco/peco
 tap rcmdnk/file
 brew brew-file
 
+tap simeji/jid
+
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
 appstore 443987910 1Password (6.5.2)
 appstore 918858936 Airmail 3 (3.2.1)
-appstore 1024640650 CotEditor (3.1.1)
+appstore 1024640650 CotEditor (3.1.2)
 appstore 411643860 DaisyDisk (4.3.2)
 appstore 449589707 Dash (3.3.1)
 appstore 847496013 Deckset (1.6.3)
@@ -271,7 +276,7 @@ appstore 792425898 Flume (2.3)
 appstore 428846772 Howler Timer (1.5.1)
 appstore 409183694 Keynote (7.0.5)
 appstore 896624060 Kobito (2.3.8)
-appstore 539883307 LINE (4.10.2)
+appstore 539883307 LINE (4.11.0)
 appstore 414030210 LimeChat (2.42)
 appstore 421358730 MenuTab for Facebook (6.9)
 appstore 715768417 Microsoft Remote Desktop (8.0.27228)
@@ -281,9 +286,9 @@ appstore 407963104 Pixelmator (3.6)
 appstore 445189367 PopClip (1.5.6)
 appstore 948415170 Pushbullet (4)
 appstore 588726889 ReadKit (2.4.3)
-appstore 897118787 Shazam (1.2.1)
+appstore 897118787 Shazam (1.2.2)
 appstore 425955336 Skitch (2.7.8)
-appstore 599799247 SoraAnnai (3.0.0)
+appstore 599799247 SoraAnnai (3.1.0)
 appstore 784912885 SpriteBuilder (1.4.9)
 appstore 919269455 StuffIt Expander 16 (16.0.5)
 appstore 886106985 Sunrise Calendar (1.10)
@@ -292,4 +297,4 @@ appstore 585829637 Todoist (6.3.18)
 appstore 557168941 Tweetbot (2.4.5)
 appstore 461369673 VOX (2.8.7)
 appstore 414855915 WinArchiver Lite (2.5.2)
-appstore 497799835 Xcode (8.1)
+appstore 497799835 Xcode (8.2)
