@@ -15,6 +15,7 @@ cask bathyscaphe
 cask bettertouchtool
 cask blisk
 cask cooviewer
+cask cyberduck
 cask dropbox
 cask firefox
 cask flash-player
@@ -51,6 +52,7 @@ cask vagrant
 cask versions
 cask virtualbox
 cask visual-studio-code
+cask vivaldi
 cask vlc
 cask vox-preferences-pane
 cask xamarin-studio
@@ -63,7 +65,6 @@ cask font-source-code-pro
 cask font-source-han-code-jp
 
 tap caskroom/versions
-cask macvim-kaoriya
 cask slack-beta
 
 tap homebrew/binary
@@ -97,14 +98,10 @@ brew consul
 brew coreutils
 brew cscope
 brew ctags
+brew diff-so-fancy
 brew digdag
 brew direnv
 brew dnsmasq
-brew docker
-brew docker-clean
-brew docker-compose
-brew docker-machine
-brew docker-swarm
 brew eigen
 brew elinks
 brew embulk
@@ -116,13 +113,16 @@ brew gdbm
 brew gettext
 brew ghq
 brew git
+brew glib
 brew gmp
+brew gmp@4
 brew gnu-sed --with-default-names
 brew gnu-tar --with-default-names
 brew gnutls
 brew go
 brew gradle
 brew graphicsmagick
+brew hadolint
 brew heroku
 brew htop-osx
 brew httping
@@ -132,6 +132,8 @@ brew ilmbase
 brew imagemagick
 brew iproute2mac
 brew isl
+brew isl@0.11
+brew isl@0.12
 brew jemalloc
 brew jid
 brew jmeter
@@ -142,11 +144,13 @@ brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libmpc
+brew libmpc@0.8
 brew libpng
 brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
+brew libunistring
 brew libuv
 brew libvterm
 brew libxml2
@@ -164,22 +168,27 @@ brew mercurial
 brew mobile-shell
 brew mono
 brew mpfr
+brew mpfr@2
 brew msgpack
 brew mycli
 brew mysql
 brew nettle
 brew nginx
 brew nkf
+brew node
 brew nodebrew
+brew numpy
 brew oniguruma
 brew openexr
 brew openssl
 brew openssl@1.1
 brew openvpn
+brew p11-kit
 brew patchutils
 brew pcre
 brew peco
 brew perl-build
+brew pixman
 brew pkg-config
 brew polipo
 brew postgresql
@@ -188,7 +197,8 @@ brew protobuf
 brew pyenv
 brew pyenv-virtualenv
 brew python
-brew qt
+brew python3
+brew qemu
 brew rainbarf
 brew raptor
 brew rasqal
@@ -210,7 +220,7 @@ brew sqlite
 brew stoken
 brew the_platinum_searcher
 brew the_silver_searcher
-brew tmux --HEAD
+brew tmux
 brew tomcat
 brew tree
 brew unar
@@ -218,14 +228,16 @@ brew unibilium
 brew unixodbc
 brew utf8proc
 brew vault
-brew vim --with-luajit
 brew w3m
 brew watch
+brew watchman
 brew wget
 brew xz
+brew yarn
 brew z
 brew zeromq
 brew zookeeper
+brew zplug
 brew zsh
 brew zsh-completions
 
@@ -241,22 +253,14 @@ brew composer
 brew php70
 
 tap homebrew/python
-brew numpy
 
 tap homebrew/science
 brew opencv
 
 tap homebrew/versions
-brew cloog018
-brew gmp4
-brew isl011
-brew libmpc08
-brew mpfr2
 
 tap neovim/neovim
 brew neovim
-
-tap peco/peco
 
 tap rcmdnk/file
 brew brew-file
@@ -265,36 +269,36 @@ tap simeji/jid
 
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
-appstore 443987910 1Password (6.5.2)
+appstore 443987910 1Password (6.5.3)
 appstore 918858936 Airmail 3 (3.2.1)
-appstore 1024640650 CotEditor (3.1.2)
+appstore 1024640650 CotEditor (3.1.3)
 appstore 411643860 DaisyDisk (4.3.2)
 appstore 449589707 Dash (3.3.1)
 appstore 847496013 Deckset (1.6.3)
 appstore 406056744 Evernote (6.10)
-appstore 792425898 Flume (2.3)
+appstore 792425898 Flume (2.4.2)
 appstore 428846772 Howler Timer (1.5.1)
 appstore 409183694 Keynote (7.0.5)
 appstore 896624060 Kobito (2.3.8)
-appstore 539883307 LINE (4.11.0)
+appstore 539883307 LINE (4.11.1)
 appstore 414030210 LimeChat (2.42)
 appstore 421358730 MenuTab for Facebook (6.9)
-appstore 715768417 Microsoft Remote Desktop (8.0.27228)
+appstore 715768417 Microsoft Remote Desktop (8.0.27246)
 appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
 appstore 407963104 Pixelmator (3.6)
 appstore 445189367 PopClip (1.5.6)
 appstore 948415170 Pushbullet (4)
-appstore 588726889 ReadKit (2.4.3)
+appstore 588726889 ReadKit (2.4.6)
 appstore 897118787 Shazam (1.2.2)
-appstore 425955336 Skitch (2.7.8)
-appstore 599799247 SoraAnnai (3.1.0)
+appstore 425955336 Skitch (2.8)
+appstore 599799247 SoraAnnai (3.1.1)
 appstore 784912885 SpriteBuilder (1.4.9)
 appstore 919269455 StuffIt Expander 16 (16.0.5)
 appstore 886106985 Sunrise Calendar (1.10)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 585829637 Todoist (6.3.18)
-appstore 557168941 Tweetbot (2.4.5)
-appstore 461369673 VOX (2.8.7)
-appstore 414855915 WinArchiver Lite (2.5.2)
-appstore 497799835 Xcode (8.2)
+appstore 585829637 Todoist (6.3.19)
+appstore 557168941 Tweetbot (2.4.6)
+appstore 461369673 VOX (2.8.15)
+appstore 414855915 WinArchiver Lite (2.5.3)
+appstore 497799835 Xcode (8.2.1)
