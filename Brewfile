@@ -98,7 +98,6 @@ brew consul
 brew coreutils
 brew cscope
 brew ctags
-brew diff-so-fancy
 brew digdag
 brew direnv
 brew dnsmasq
