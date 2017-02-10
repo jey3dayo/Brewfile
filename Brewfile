@@ -9,11 +9,9 @@ tap buo/cask-upgrade
 tap caskroom/cask
 cask alfred
 cask appcleaner
-cask atom
 cask bartender
 cask bathyscaphe
 cask bettertouchtool
-cask blisk
 cask cooviewer
 cask cyberduck
 cask dropbox
@@ -37,7 +35,6 @@ cask licecap
 cask mono-mdk
 cask mysqlworkbench
 cask near-lock
-cask notifyr
 cask obs
 cask pg-commander
 cask quitter
@@ -98,7 +95,6 @@ brew consul
 brew coreutils
 brew cscope
 brew ctags
-brew diff-so-fancy
 brew digdag
 brew direnv
 brew dnsmasq
@@ -171,7 +167,7 @@ brew mpfr
 brew mpfr@2
 brew msgpack
 brew mycli
-brew mysql
+brew mysql@5.6
 brew nettle
 brew nginx
 brew nkf
@@ -277,6 +273,7 @@ appstore 449589707 Dash (3.3.1)
 appstore 847496013 Deckset (1.6.3)
 appstore 406056744 Evernote (6.10)
 appstore 792425898 Flume (2.4.2)
+appstore 980327293 Go for YouTube (1.8)
 appstore 428846772 Howler Timer (1.5.1)
 appstore 409183694 Keynote (7.0.5)
 appstore 896624060 Kobito (2.3.8)
@@ -288,17 +285,14 @@ appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
 appstore 407963104 Pixelmator (3.6)
 appstore 445189367 PopClip (1.5.6)
-appstore 948415170 Pushbullet (4)
-appstore 588726889 ReadKit (2.4.6)
 appstore 897118787 Shazam (1.2.2)
 appstore 425955336 Skitch (2.8)
 appstore 599799247 SoraAnnai (3.1.1)
-appstore 784912885 SpriteBuilder (1.4.9)
 appstore 919269455 StuffIt Expander 16 (16.0.5)
 appstore 886106985 Sunrise Calendar (1.10)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 585829637 Todoist (6.3.19)
 appstore 557168941 Tweetbot (2.4.6)
-appstore 461369673 VOX (2.8.15)
+appstore 461369673 VOX (2.8.17)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 497799835 Xcode (8.2.1)
