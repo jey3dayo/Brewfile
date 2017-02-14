@@ -167,6 +167,7 @@ brew mpfr
 brew mpfr@2
 brew msgpack
 brew mycli
+brew mysql
 brew mysql@5.6
 brew nettle
 brew nginx
