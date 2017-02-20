@@ -43,7 +43,6 @@ cask seil
 cask sequel-pro
 cask skype
 cask spotify
-cask sublime-text
 cask teamspeak-client
 cask vagrant
 cask versions
@@ -67,6 +66,7 @@ cask slack-beta
 tap homebrew/binary
 
 tap homebrew/boneyard
+brew ngrok
 brew unfs3
 
 tap homebrew/bundle
@@ -98,6 +98,9 @@ brew ctags
 brew digdag
 brew direnv
 brew dnsmasq
+brew docker
+brew docker-compose
+brew docker-machine
 brew eigen
 brew elinks
 brew embulk
@@ -278,8 +281,8 @@ appstore 980327293 Go for YouTube (1.8)
 appstore 428846772 Howler Timer (1.5.1)
 appstore 409183694 Keynote (7.0.5)
 appstore 896624060 Kobito (2.3.8)
-appstore 539883307 LINE (4.11.1)
 appstore 414030210 LimeChat (2.42)
+appstore 539883307 LINE (4.11.1)
 appstore 421358730 MenuTab for Facebook (6.9)
 appstore 715768417 Microsoft Remote Desktop (8.0.27246)
 appstore 409203825 Numbers (4.0.5)
@@ -294,6 +297,6 @@ appstore 886106985 Sunrise Calendar (1.10)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 585829637 Todoist (6.3.19)
 appstore 557168941 Tweetbot (2.4.6)
-appstore 461369673 VOX (2.8.17)
+appstore 461369673 VOX (2.8.19)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 497799835 Xcode (8.2.1)
