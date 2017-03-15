@@ -98,9 +98,6 @@ brew ctags
 brew digdag
 brew direnv
 brew dnsmasq
-brew docker
-brew docker-compose
-brew docker-machine
 brew eigen
 brew elinks
 brew embulk
@@ -269,12 +266,11 @@ tap simeji/jid
 
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
-appstore 443987910 1Password (6.5.3)
-appstore 918858936 Airmail 3 (3.2.1)
-appstore 1024640650 CotEditor (3.1.3)
-appstore 411643860 DaisyDisk (4.3.2)
+appstore 443987910 1Password (6.6.2)
+appstore 918858936 Airmail 3 (3.2.3)
+appstore 1024640650 CotEditor (3.1.7)
 appstore 449589707 Dash (3.3.1)
-appstore 847496013 Deckset (1.6.3)
+appstore 847496013 Deckset (1.7.0)
 appstore 406056744 Evernote (6.10)
 appstore 792425898 Flume (2.4.2)
 appstore 980327293 Go for YouTube (1.8)
@@ -282,9 +278,8 @@ appstore 428846772 Howler Timer (1.5.1)
 appstore 409183694 Keynote (7.0.5)
 appstore 896624060 Kobito (2.3.8)
 appstore 414030210 LimeChat (2.42)
-appstore 539883307 LINE (4.11.1)
+appstore 539883307 LINE (4.12.1)
 appstore 421358730 MenuTab for Facebook (6.9)
-appstore 715768417 Microsoft Remote Desktop (8.0.27246)
 appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
 appstore 407963104 Pixelmator (3.6)
@@ -295,7 +290,7 @@ appstore 599799247 SoraAnnai (3.1.1)
 appstore 919269455 StuffIt Expander 16 (16.0.5)
 appstore 886106985 Sunrise Calendar (1.10)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 585829637 Todoist (6.3.19)
+appstore 585829637 Todoist (6.3.20)
 appstore 557168941 Tweetbot (2.4.6)
 appstore 461369673 VOX (2.8.19)
 appstore 414855915 WinArchiver Lite (2.5.3)
