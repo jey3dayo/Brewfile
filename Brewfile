@@ -12,6 +12,7 @@ cask appcleaner
 cask bartender
 cask bathyscaphe
 cask bettertouchtool
+cask choosy
 cask cooviewer
 cask cyberduck
 cask dropbox
@@ -62,12 +63,11 @@ cask font-source-han-code-jp
 
 tap caskroom/versions
 cask slack-beta
+cask vivaldi-snapshot
 
 tap homebrew/binary
 
 tap homebrew/boneyard
-brew ngrok
-brew unfs3
 
 tap homebrew/bundle
 
@@ -76,6 +76,7 @@ brew ack
 brew ansible
 brew ant
 brew antigen
+brew apple-gcc42
 brew apr
 brew apr-util
 brew autoconf
@@ -118,6 +119,7 @@ brew gnutls
 brew go
 brew gradle
 brew graphicsmagick
+brew grep --with-default-names
 brew hadolint
 brew heroku
 brew htop-osx
@@ -128,7 +130,6 @@ brew ilmbase
 brew imagemagick
 brew iproute2mac
 brew isl
-brew isl@0.11
 brew isl@0.12
 brew jemalloc
 brew jid
@@ -139,9 +140,11 @@ brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libiconv
 brew libmpc
 brew libmpc@0.8
 brew libpng
+brew libssh2
 brew libtasn1
 brew libtermkey
 brew libtiff
@@ -157,6 +160,7 @@ brew lua
 brew luajit
 brew lynx
 brew lzo
+brew make
 brew makedepend
 brew maven
 brew mecab
@@ -196,6 +200,7 @@ brew pyenv-virtualenv
 brew python
 brew python3
 brew qemu
+brew qt
 brew rainbarf
 brew raptor
 brew rasqal
@@ -208,6 +213,7 @@ brew redland
 brew rethinkdb
 brew ruby
 brew ruby-build
+brew rust
 brew s3cmd
 brew sbt
 brew scala
@@ -225,6 +231,7 @@ brew unibilium
 brew unixodbc
 brew utf8proc
 brew vault
+brew vim --with-python3 --with-luajit
 brew w3m
 brew watch
 brew watchman
@@ -233,17 +240,13 @@ brew xz
 brew yarn
 brew z
 brew zeromq
+brew zlib
 brew zookeeper
 brew zplug
 brew zsh
 brew zsh-completions
 
 tap homebrew/dupes
-brew apple-gcc42
-brew grep --with-default-names
-brew libiconv
-brew make
-brew zlib
 
 tap homebrew/php
 brew composer
@@ -264,34 +267,36 @@ brew brew-file
 
 tap simeji/jid
 
+# Other Homebrew packages
+brew ngrok
+
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
-appstore 443987910 1Password (6.6.2)
-appstore 918858936 Airmail 3 (3.2.3)
-appstore 1024640650 CotEditor (3.1.7)
+appstore 443987910 1Password (6.7)
+appstore 1024640650 CotEditor (3.1.8)
+appstore 411643860 DaisyDisk (4.4)
 appstore 449589707 Dash (3.3.1)
-appstore 847496013 Deckset (1.7.0)
-appstore 406056744 Evernote (6.10)
+appstore 847496013 Deckset (1.8.1)
+appstore 406056744 Evernote (6.11)
 appstore 792425898 Flume (2.4.2)
 appstore 980327293 Go for YouTube (1.8)
 appstore 428846772 Howler Timer (1.5.1)
-appstore 409183694 Keynote (7.0.5)
+appstore 409183694 Keynote (7.1.1)
 appstore 896624060 Kobito (2.3.8)
 appstore 414030210 LimeChat (2.42)
-appstore 539883307 LINE (4.12.1)
+appstore 539883307 LINE (5.1.1)
 appstore 421358730 MenuTab for Facebook (6.9)
-appstore 409203825 Numbers (4.0.5)
-appstore 409201541 Pages (6.0.5)
+appstore 409203825 Numbers (4.1.1)
+appstore 409201541 Pages (6.1.1)
 appstore 407963104 Pixelmator (3.6)
-appstore 445189367 PopClip (1.5.6)
 appstore 897118787 Shazam (1.2.2)
 appstore 425955336 Skitch (2.8)
-appstore 599799247 SoraAnnai (3.1.1)
+appstore 599799247 SoraAnnai (3.1.2)
 appstore 919269455 StuffIt Expander 16 (16.0.5)
 appstore 886106985 Sunrise Calendar (1.10)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 585829637 Todoist (6.3.20)
-appstore 557168941 Tweetbot (2.4.6)
-appstore 461369673 VOX (2.8.19)
+appstore 585829637 Todoist (7.0.1)
+appstore 557168941 Tweetbot (2.5.1)
+appstore 461369673 VOX (2.8.23)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 497799835 Xcode (8.2.1)
+appstore 497799835 Xcode (8.3.2)
