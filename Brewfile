@@ -8,6 +8,7 @@ tap buo/cask-upgrade
 
 tap caskroom/cask
 cask alfred
+cask android-studio
 cask appcleaner
 cask bartender
 cask bathyscaphe
@@ -20,15 +21,16 @@ cask firefox
 cask flash-player
 cask github-desktop
 cask google-chrome
-cask google-drive
 cask google-japanese-ime
 cask hyperswitch
+cask ibettercharge
 cask ifunbox
 cask intellij-idea
 cask istat-menus
 cask istumbler
 cask iterm2
 cask java
+cask keepassx
 cask kindle
 cask lastfm
 cask league-of-legends
@@ -63,7 +65,6 @@ cask font-source-han-code-jp
 
 tap caskroom/versions
 cask slack-beta
-cask vivaldi-snapshot
 
 tap homebrew/binary
 
@@ -95,7 +96,6 @@ brew colordiff
 brew consul
 brew coreutils
 brew cscope
-brew ctags
 brew digdag
 brew direnv
 brew dnsmasq
@@ -173,6 +173,7 @@ brew msgpack
 brew mycli
 brew mysql
 brew mysql@5.6
+brew neovim
 brew nettle
 brew nginx
 brew nkf
@@ -260,34 +261,40 @@ brew opencv
 tap homebrew/versions
 
 tap neovim/neovim
-brew neovim
 
 tap rcmdnk/file
 brew brew-file
 
 tap simeji/jid
 
+tap universal-ctags/universal-ctags
+brew universal-ctags --HEAD
+
 # Other Homebrew packages
 brew ngrok
+
+# Cask applications
+cask google-drive
 
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
 appstore 443987910 1Password (6.7)
+appstore 918858936 Airmail 3 (3.3.2)
 appstore 1024640650 CotEditor (3.1.8)
 appstore 411643860 DaisyDisk (4.4)
 appstore 449589707 Dash (3.3.1)
 appstore 847496013 Deckset (1.8.1)
-appstore 406056744 Evernote (6.11)
+appstore 406056744 Evernote (6.11.1)
 appstore 792425898 Flume (2.4.2)
 appstore 980327293 Go for YouTube (1.8)
 appstore 428846772 Howler Timer (1.5.1)
-appstore 409183694 Keynote (7.1.1)
+appstore 409183694 Keynote (7.2)
 appstore 896624060 Kobito (2.3.8)
 appstore 414030210 LimeChat (2.42)
-appstore 539883307 LINE (5.1.1)
+appstore 539883307 LINE (5.2.2)
 appstore 421358730 MenuTab for Facebook (6.9)
-appstore 409203825 Numbers (4.1.1)
-appstore 409201541 Pages (6.1.1)
+appstore 409203825 Numbers (4.2)
+appstore 409201541 Pages (6.2)
 appstore 407963104 Pixelmator (3.6)
 appstore 897118787 Shazam (1.2.2)
 appstore 425955336 Skitch (2.8)
@@ -295,8 +302,8 @@ appstore 599799247 SoraAnnai (3.1.2)
 appstore 919269455 StuffIt Expander 16 (16.0.5)
 appstore 886106985 Sunrise Calendar (1.10)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 585829637 Todoist (7.0.1)
+appstore 585829637 Todoist (7.0.2)
 appstore 557168941 Tweetbot (2.5.1)
-appstore 461369673 VOX (2.8.23)
+appstore 461369673 VOX (2.8.25)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 497799835 Xcode (8.3.2)
+appstore 497799835 Xcode (8.3.3)
