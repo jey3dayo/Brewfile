@@ -33,7 +33,6 @@ cask java
 cask keepassx
 cask kindle
 cask lastfm
-cask league-of-legends
 cask licecap
 cask mono-mdk
 cask mysqlworkbench
@@ -42,6 +41,7 @@ cask obs
 cask pg-commander
 cask quitter
 cask radiant-player
+cask react-native-debugger
 cask seil
 cask sequel-pro
 cask skype
@@ -278,9 +278,9 @@ cask google-drive
 
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
-appstore 443987910 1Password (6.7)
+appstore 443987910 1Password (6.8)
 appstore 918858936 Airmail 3 (3.3.2)
-appstore 1024640650 CotEditor (3.1.8)
+appstore 1024640650 CotEditor (3.2.0)
 appstore 411643860 DaisyDisk (4.4)
 appstore 449589707 Dash (3.3.1)
 appstore 847496013 Deckset (1.8.1)
@@ -296,7 +296,7 @@ appstore 421358730 MenuTab for Facebook (6.9)
 appstore 409203825 Numbers (4.2)
 appstore 409201541 Pages (6.2)
 appstore 407963104 Pixelmator (3.6)
-appstore 897118787 Shazam (1.2.2)
+appstore 897118787 Shazam (1.2.3)
 appstore 425955336 Skitch (2.8)
 appstore 599799247 SoraAnnai (3.1.2)
 appstore 919269455 StuffIt Expander 16 (16.0.5)
