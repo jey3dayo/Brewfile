@@ -24,7 +24,6 @@ cask google-chrome
 cask google-japanese-ime
 cask hyperswitch
 cask ibettercharge
-cask ifunbox
 cask intellij-idea
 cask istat-menus
 cask istumbler
@@ -40,7 +39,6 @@ cask near-lock
 cask obs
 cask pg-commander
 cask quitter
-cask radiant-player
 cask react-native-debugger
 cask seil
 cask sequel-pro
