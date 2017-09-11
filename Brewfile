@@ -14,12 +14,12 @@ cask bartender
 cask bathyscaphe
 cask bettertouchtool
 cask choosy
-cask cooviewer
 cask cyberduck
 cask dropbox
 cask firefox
 cask flash-player
 cask github-desktop
+cask google-backup-and-sync
 cask google-chrome
 cask google-japanese-ime
 cask hyperswitch
@@ -28,7 +28,6 @@ cask intellij-idea
 cask istat-menus
 cask istumbler
 cask iterm2
-cask java
 cask keepassx
 cask kindle
 cask lastfm
@@ -40,7 +39,6 @@ cask obs
 cask pg-commander
 cask quitter
 cask react-native-debugger
-cask seil
 cask sequel-pro
 cask skype
 cask spotify
@@ -51,7 +49,6 @@ cask virtualbox
 cask visual-studio-code
 cask vivaldi
 cask vlc
-cask vox-preferences-pane
 cask xamarin-studio
 cask xquartz
 
@@ -101,6 +98,7 @@ brew eigen
 brew elinks
 brew embulk
 brew etcd
+brew ffmpeg
 brew fleetctl
 brew freetype
 brew gcc
@@ -134,6 +132,7 @@ brew jid
 brew jmeter
 brew jpeg
 brew jq
+brew lame
 brew libevent
 brew libffi
 brew libgcrypt
@@ -171,6 +170,7 @@ brew msgpack
 brew mycli
 brew mysql
 brew mysql@5.6
+brew ncurses
 brew neovim
 brew nettle
 brew nginx
@@ -179,6 +179,7 @@ brew node
 brew nodebrew
 brew numpy
 brew oniguruma
+brew opencv
 brew openexr
 brew openssl
 brew openssl@1.1
@@ -235,6 +236,8 @@ brew w3m
 brew watch
 brew watchman
 brew wget
+brew x264
+brew xvid
 brew xz
 brew yarn
 brew z
@@ -254,7 +257,6 @@ brew php70
 tap homebrew/python
 
 tap homebrew/science
-brew opencv
 
 tap homebrew/versions
 
@@ -271,25 +273,22 @@ brew universal-ctags --HEAD
 # Other Homebrew packages
 brew ngrok
 
-# Cask applications
-cask google-drive
-
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
-appstore 443987910 1Password (6.8)
+appstore 443987910 1Password (6.8.1)
 appstore 918858936 Airmail 3 (3.3.2)
-appstore 1024640650 CotEditor (3.2.0)
+appstore 1024640650 CotEditor (3.2.1)
 appstore 411643860 DaisyDisk (4.4)
 appstore 449589707 Dash (3.3.1)
-appstore 847496013 Deckset (1.8.1)
-appstore 406056744 Evernote (6.11.1)
+appstore 847496013 Deckset (1.8.3)
+appstore 406056744 Evernote (6.12.1)
 appstore 792425898 Flume (2.4.2)
 appstore 980327293 Go for YouTube (1.8)
 appstore 428846772 Howler Timer (1.5.1)
 appstore 409183694 Keynote (7.2)
 appstore 896624060 Kobito (2.3.8)
 appstore 414030210 LimeChat (2.42)
-appstore 539883307 LINE (5.2.2)
+appstore 539883307 LINE (5.3.0)
 appstore 421358730 MenuTab for Facebook (6.9)
 appstore 409203825 Numbers (4.2)
 appstore 409201541 Pages (6.2)
@@ -302,6 +301,6 @@ appstore 886106985 Sunrise Calendar (1.10)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 585829637 Todoist (7.0.2)
 appstore 557168941 Tweetbot (2.5.1)
-appstore 461369673 VOX (2.8.25)
+appstore 461369673 VOX (2.8.27)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 497799835 Xcode (8.3.3)
