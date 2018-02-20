@@ -320,3 +320,17 @@ appstore 557168941 Tweetbot (2.5.4)
 appstore 461369673 VOX (3.2.1)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 497799835 Xcode (9.2)
+
+# Other commands
+<<<<<<< HEAD
+=======
+>>>>>>> 82159a336b7144603b3fa55e307ff778371262fd
+<<<<<<< HEAD
+=======
+>>>>>>> 82159a336b7144603b3fa55e307ff778371262fd
+<<<<<<< HEAD
+=======
+>>>>>>> 82159a336b7144603b3fa55e307ff778371262fd
+<<<<<<< HEAD
+=======
+>>>>>>> 82159a336b7144603b3fa55e307ff778371262fd
