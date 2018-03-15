@@ -90,6 +90,7 @@ brew llvm
 brew lua
 brew luajit
 brew lynx
+brew lz4
 brew lzo
 brew make
 brew makedepend
@@ -132,7 +133,7 @@ brew protobuf
 brew pyenv
 brew pyenv-virtualenv
 brew python
-brew python3
+brew python@2
 brew qemu
 brew qt
 brew rainbarf
@@ -167,7 +168,7 @@ brew unibilium
 brew unixodbc
 brew utf8proc
 brew vault
-brew vim --with-python3 --with-luajit
+brew vim --with-luajit
 brew w3m
 brew watch
 brew watchman
@@ -213,6 +214,7 @@ cask bitbar
 cask caffeine
 cask choosy
 cask cyberduck
+cask deckset
 cask dropbox
 cask firefox
 cask flash-player
@@ -222,6 +224,8 @@ cask google-japanese-ime
 cask hyper
 cask hyperswitch
 cask ibettercharge
+cask imageoptim
+cask insomnia
 cask intellij-idea
 cask istat-menus
 cask istumbler
@@ -280,20 +284,20 @@ brew libmpc@0.8
 brew mpfr@2
 brew ngrok
 
-# Cask applications
+# Other Cask applications
 cask github-desktop
 
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
-appstore 443987910 1Password (6.8.6)
+appstore 443987910 1Password (6.8.7)
 appstore 918858936 Airmail 3 (3.5.4)
+appstore 1037126344 Apple Configurator 2 (2.6.1)
 appstore 1141688067 Coin Tick (2.17)
-appstore 1024640650 CotEditor (3.3.2)
+appstore 1024640650 CotEditor (3.3.5)
 appstore 1251526036 CryptocurrencyTicker (0.6.0)
 appstore 411643860 DaisyDisk (4.4)
 appstore 449589707 Dash (3.3.1)
-appstore 847496013 Deckset (1.8.3)
-appstore 406056744 Evernote (6.13.3)
+appstore 406056744 Evernote (7.0.2)
 appstore 792425898 Flume (2.4.2)
 appstore 682658836 GarageBand (10.2.0)
 appstore 980327293 Go for YouTube (1.8)
@@ -303,15 +307,16 @@ appstore 409183694 Keynote (7.3.1)
 appstore 896624060 Kobito (2.3.8)
 appstore 1035132445 LGTM (3.2)
 appstore 414030210 LimeChat (2.43)
-appstore 539883307 LINE (5.6.0)
+appstore 539883307 LINE (5.6.1)
 appstore  Install macOS High Sierra (1364)
 appstore 421358730 MenuTab for Facebook (6.9)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 407963104 Pixelmator (3.7)
 appstore 880001334 Reeder (3.1.2)
+appstore 1102341786 RulerSwift (1.0)
 appstore 897118787 Shazam (1.2.5)
-appstore 425955336 Skitch (2.8)
+appstore 425955336 Skitch (2.8.1)
 appstore 599799247 SoraAnnai (3.3.1)
 appstore 919269455 StuffIt Expander (16.0.6)
 appstore 425424353 The Unarchiver (3.11.3)
@@ -320,17 +325,3 @@ appstore 557168941 Tweetbot (2.5.4)
 appstore 461369673 VOX (3.2.1)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 497799835 Xcode (9.2)
-
-# Other commands
-<<<<<<< HEAD
-=======
->>>>>>> 82159a336b7144603b3fa55e307ff778371262fd
-<<<<<<< HEAD
-=======
->>>>>>> 82159a336b7144603b3fa55e307ff778371262fd
-<<<<<<< HEAD
-=======
->>>>>>> 82159a336b7144603b3fa55e307ff778371262fd
-<<<<<<< HEAD
-=======
->>>>>>> 82159a336b7144603b3fa55e307ff778371262fd
