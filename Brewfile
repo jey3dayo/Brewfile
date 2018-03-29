@@ -22,6 +22,7 @@ brew cloog
 brew cmake
 brew cmigemo
 brew colordiff
+brew composer
 brew consul
 brew coreutils
 brew cscope
@@ -194,7 +195,6 @@ tap homebrew/bundle
 tap homebrew/dupes
 
 tap homebrew/php
-brew composer
 brew php70
 
 tap homebrew/python
