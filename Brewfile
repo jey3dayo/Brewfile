@@ -9,6 +9,7 @@ brew antigen
 brew apple-gcc42
 brew apr
 brew apr-util
+brew aspell
 brew autoconf
 brew autojump
 brew automake
@@ -36,6 +37,7 @@ brew embulk
 brew etcd
 brew ffmpeg
 brew fleetctl
+brew freetds
 brew freetype
 brew gcc
 brew gdbm
@@ -76,6 +78,7 @@ brew libiconv
 brew libidn2
 brew libmpc
 brew libpng
+brew libpq
 brew libssh2
 brew libtasn1
 brew libtermkey
@@ -87,6 +90,7 @@ brew libvterm
 brew libxml2
 brew libxslt
 brew libyaml
+brew libzip
 brew llvm
 brew lua
 brew luajit
@@ -97,8 +101,10 @@ brew make
 brew makedepend
 brew mas
 brew maven
+brew mcrypt
 brew mecab
 brew mercurial
+brew mhash
 brew mosh
 brew mpfr
 brew msgpack
@@ -125,6 +131,7 @@ brew pcre
 brew peco
 brew perl
 brew perl-build
+brew php@7.0
 brew pixman
 brew pkg-config
 brew polipo
@@ -173,6 +180,7 @@ brew vim --with-luajit
 brew w3m
 brew watch
 brew watchman
+brew webp
 brew wget
 brew x264
 brew xvid
@@ -195,7 +203,6 @@ tap homebrew/bundle
 tap homebrew/dupes
 
 tap homebrew/php
-brew php70
 
 tap homebrew/python
 
