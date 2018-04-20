@@ -255,6 +255,7 @@ cask virtualbox
 cask visual-studio-code
 cask vivaldi
 cask vlc
+cask wireshark
 cask xquartz
 
 tap caskroom/fonts
