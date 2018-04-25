@@ -298,7 +298,7 @@ cask github-desktop
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
 appstore 443987910 1Password (6.8.8)
-appstore 918858936 Airmail 3 (3.5.4)
+appstore 918858936 Airmail 3 (3.5.6)
 appstore 1037126344 Apple Configurator 2 (2.7)
 appstore 1141688067 Coin Tick (2.17)
 appstore 1024640650 CotEditor (3.3.5)
