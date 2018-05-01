@@ -246,6 +246,7 @@ cask near-lock
 cask pg-commander
 cask quitter
 cask react-native-debugger
+cask recordit
 cask sequel-pro
 cask skype
 cask spotify
