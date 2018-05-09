@@ -24,19 +24,16 @@ brew cmake
 brew cmigemo
 brew colordiff
 brew composer
-brew consul
 brew coreutils
 brew cscope
 brew digdag
 brew direnv
-brew dnsmasq
 brew docker-clean
 brew eigen
 brew elinks
 brew embulk
 brew etcd
 brew ffmpeg
-brew fleetctl
 brew freetds
 brew freetype
 brew gcc
@@ -166,7 +163,6 @@ brew shellcheck
 brew sqlite
 brew stoken
 brew tbb
-brew the_platinum_searcher
 brew the_silver_searcher
 brew tmux
 brew tomcat
@@ -308,9 +304,7 @@ appstore 1251526036 CryptocurrencyTicker (0.6.0)
 appstore 411643860 DaisyDisk (4.6)
 appstore 449589707 Dash (3.3.1)
 appstore 406056744 Evernote (7.1)
-appstore 792425898 Flume (2.4.2)
 appstore 682658836 GarageBand (10.2.0)
-appstore 980327293 GoVid for YouTube (1.9)
 appstore 428846772 Howler Timer (1.5.1)
 appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (8.0.1)
