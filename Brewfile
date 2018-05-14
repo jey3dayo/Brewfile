@@ -57,7 +57,7 @@ brew httping
 brew hub
 brew icu4c
 brew ilmbase
-brew imagemagick
+brew imagemagick --with-liblqr
 brew iproute2mac
 brew isl
 brew jasper
@@ -312,7 +312,7 @@ appstore 896624060 Kobito (2.3.8)
 appstore 1035132445 LGTM (4.0)
 appstore 414030210 LimeChat (2.43)
 appstore 539883307 LINE (5.7.0)
-appstore  Install macOS High Sierra (1364)
+appstore Install macOS High Sierra (1364)
 appstore 421358730 MenuTab for Facebook (6.9)
 appstore 409203825 Numbers (5.0.1)
 appstore 409201541 Pages (7.0.1)
