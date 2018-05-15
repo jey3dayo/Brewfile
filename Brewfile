@@ -73,6 +73,7 @@ brew libgcrypt
 brew libgpg-error
 brew libiconv
 brew libidn2
+brew liblqr
 brew libmpc
 brew libpng
 brew libpq
