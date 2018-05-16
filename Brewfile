@@ -5,7 +5,6 @@ tap homebrew/core
 brew ack
 brew ansible
 brew ant
-brew antigen
 brew apple-gcc42
 brew apr
 brew apr-util
@@ -132,7 +131,6 @@ brew perl-build
 brew php@7.0
 brew pixman
 brew pkg-config
-brew polipo
 brew postgresql
 brew proctools
 brew protobuf
@@ -152,7 +150,6 @@ brew reattach-to-user-namespace
 brew redis
 brew redland
 brew redpen
-brew rethinkdb
 brew ripgrep
 brew ruby
 brew ruby-build
@@ -162,7 +159,6 @@ brew sbt
 brew scala
 brew shellcheck
 brew sqlite
-brew stoken
 brew tbb
 brew the_silver_searcher
 brew tmux
