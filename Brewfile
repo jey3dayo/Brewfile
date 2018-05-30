@@ -204,64 +204,10 @@ tap homebrew/science
 tap homebrew/versions
 
 tap caskroom/cask
-cask alfred
-cask android-studio
-cask appcleaner
-cask bartender
-cask bathyscaphe
-cask bettertouchtool
-cask bitbar
-cask caffeine
-cask choosy
-cask cyberduck
-cask deckset
-cask dropbox
-cask firefox
-cask flash-player
-cask google-backup-and-sync
-cask google-chrome
-cask google-japanese-ime
-cask hyper
-cask hyperswitch
-cask ibettercharge
-cask imageoptim
-cask insomnia
-cask intellij-idea
-cask istat-menus
-cask istumbler
-cask iterm2
-cask keepassx
-cask kindle
-cask lastfm
-cask licecap
-cask mysqlworkbench
-cask near-lock
-cask pg-commander
-cask quitter
-cask react-native-debugger
-cask recordit
-cask sequel-pro
-cask skype
-cask spotify
-cask vagrant
-cask versions
-cask virtualbox
-cask visual-studio-code
-cask vivaldi
-cask vlc
-cask wireshark
-cask xquartz
 
 tap caskroom/fonts
-cask font-inconsolata
-cask font-meslo-for-powerline
-cask font-roboto
-cask font-source-code-pro
-cask font-source-code-pro-for-powerline
-cask font-source-han-code-jp
 
 tap caskroom/versions
-cask slack-beta
 
 tap argon/mas
 
@@ -287,7 +233,61 @@ brew mpfr@2
 brew ngrok
 
 # Other Cask applications
+cask alfred
+cask android-studio
+cask appcleaner
+cask bartender
+cask bathyscaphe
+cask bettertouchtool
+cask bitbar
+cask caffeine
+cask choosy
+cask cyberduck
+cask deckset
+cask dropbox
+cask firefox
+cask flash-player
+cask font-inconsolata
+cask font-meslo-for-powerline
+cask font-roboto
+cask font-source-code-pro
+cask font-source-code-pro-for-powerline
+cask font-source-han-code-jp
 cask github-desktop
+cask google-backup-and-sync
+cask google-chrome
+cask google-japanese-ime
+cask hyper
+cask hyperswitch
+cask ibettercharge
+cask imageoptim
+cask insomnia
+cask intellij-idea
+cask istat-menus
+cask istumbler
+cask iterm2
+cask keepassx
+cask kindle
+cask lastfm
+cask licecap
+cask mysqlworkbench
+cask near-lock
+cask pg-commander
+cask quitter
+cask react-native-debugger
+cask recordit
+cask sequel-pro
+cask skype
+cask slack-beta
+cask spotify
+cask vagrant
+cask versions
+cask virtualbox
+cask visual-studio-code
+cask vivaldi
+cask vlc
+cask wireshark
+cask xquartz
 
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
@@ -309,7 +309,7 @@ appstore 896624060 Kobito (2.3.8)
 appstore 1035132445 LGTM (4.0)
 appstore 414030210 LimeChat (2.43)
 appstore 539883307 LINE (5.7.0)
-appstore  Install macOS High Sierra (1364)
+appstore Install macOS High Sierra (1364)
 appstore 421358730 MenuTab for Facebook (6.9)
 appstore 409203825 Numbers (5.0.1)
 appstore 409201541 Pages (7.0.1)
