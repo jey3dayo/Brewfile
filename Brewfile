@@ -193,6 +193,40 @@ tap homebrew/boneyard
 
 tap homebrew/bundle
 
+tap homebrew/cask
+cask alfred
+cask appcleaner
+cask bathyscaphe
+cask bitbar
+cask choosy
+cask deckset
+cask firefox
+cask google-backup-and-sync
+cask google-japanese-ime
+cask hyperswitch
+cask imageoptim
+cask intellij-idea
+cask istumbler
+cask keepassx
+cask lastfm
+cask mysqlworkbench
+cask pg-commander
+cask react-native-debugger
+cask sequel-pro
+cask spotify
+cask versions
+cask visual-studio-code
+cask vlc
+cask xquartz
+
+tap homebrew/cask-fonts
+cask font-inconsolata
+cask font-roboto
+cask font-source-code-pro-for-powerline
+
+tap homebrew/cask-versions
+cask slack-beta
+
 tap homebrew/dupes
 
 tap homebrew/php
@@ -204,10 +238,6 @@ tap homebrew/science
 tap homebrew/versions
 
 tap caskroom/cask
-
-tap caskroom/fonts
-
-tap caskroom/versions
 
 tap argon/mas
 
@@ -233,83 +263,54 @@ brew mpfr@2
 brew ngrok
 
 # Other Cask applications
-cask alfred
 cask android-studio
-cask appcleaner
 cask bartender
-cask bathyscaphe
 cask bettertouchtool
-cask bitbar
 cask caffeine
-cask choosy
 cask cyberduck
-cask deckset
 cask dropbox
-cask firefox
 cask flash-player
-cask font-inconsolata
 cask font-meslo-for-powerline
-cask font-roboto
 cask font-source-code-pro
-cask font-source-code-pro-for-powerline
 cask font-source-han-code-jp
 cask github-desktop
-cask google-backup-and-sync
 cask google-chrome
-cask google-japanese-ime
 cask hyper
-cask hyperswitch
 cask ibettercharge
-cask imageoptim
 cask insomnia
-cask intellij-idea
 cask istat-menus
-cask istumbler
 cask iterm2
-cask keepassx
 cask kindle
-cask lastfm
 cask licecap
-cask mysqlworkbench
 cask near-lock
-cask pg-commander
 cask quitter
-cask react-native-debugger
 cask recordit
-cask sequel-pro
 cask skype
-cask slack-beta
-cask spotify
 cask vagrant
-cask versions
 cask virtualbox
-cask visual-studio-code
 cask vivaldi
-cask vlc
 cask wireshark
-cask xquartz
 
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
 appstore 443987910 1Password (6.8.8)
 appstore 918858936 Airmail 3 (3.5.6)
 appstore 1037126344 Apple Configurator 2 (2.7)
-appstore 1091189122 Bear (1.5.2)
-appstore 1141688067 Coin Tick (2.40)
-appstore 1024640650 CotEditor (3.4.0)
+appstore 1091189122 Bear (1.5.5)
+appstore 1141688067 Coin Tick (2.41)
+appstore 1024640650 CotEditor (3.4.2)
 appstore 1251526036 CryptocurrencyTicker (0.6.0)
 appstore 411643860 DaisyDisk (4.6.1)
 appstore 449589707 Dash (3.3.1)
 appstore 406056744 Evernote (7.1.1)
 appstore 682658836 GarageBand (10.2.0)
 appstore 428846772 Howler Timer (1.5.1)
-appstore 408981434 iMovie (10.1.8)
+appstore 408981434 iMovie (10.1.9)
 appstore 409183694 Keynote (8.0.1)
 appstore 896624060 Kobito (2.3.8)
 appstore 1035132445 LGTM (4.0)
 appstore 414030210 LimeChat (2.43)
-appstore 539883307 LINE (5.7.0)
-appstore Install macOS High Sierra (1364)
+appstore 539883307 LINE (5.8.0)
 appstore 421358730 MenuTab for Facebook (6.9)
 appstore 409203825 Numbers (5.0.1)
 appstore 409201541 Pages (7.0.1)
@@ -320,9 +321,9 @@ appstore 897118787 Shazam (1.2.5)
 appstore 425955336 Skitch (2.8.1)
 appstore 599799247 SoraAnnai (3.3.1)
 appstore 919269455 StuffIt Expander (16.0.6)
-appstore 425424353 The Unarchiver (3.11.5)
-appstore 585829637 Todoist (7.0.12)
-appstore 557168941 Tweetbot (2.5.4)
+appstore 425424353 The Unarchiver (3.11.6)
+appstore 585829637 Todoist (7.0.13)
+appstore 557168941 Tweetbot (2.5.5)
 appstore 461369673 VOX (3.2.1)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 497799835 Xcode (9.2)
+appstore 497799835 Xcode (9.4)
