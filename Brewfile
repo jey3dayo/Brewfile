@@ -193,6 +193,24 @@ tap homebrew/boneyard
 
 tap homebrew/bundle
 
+tap homebrew/cask-fonts
+cask font-inconsolata
+cask font-roboto
+cask font-source-code-pro-for-powerline
+
+tap homebrew/cask-versions
+cask slack-beta
+
+tap homebrew/dupes
+
+tap homebrew/php
+
+tap homebrew/python
+
+tap homebrew/science
+
+tap homebrew/versions
+
 tap homebrew/cask
 cask alfred
 cask appcleaner
@@ -218,26 +236,6 @@ cask versions
 cask visual-studio-code
 cask vlc
 cask xquartz
-
-tap homebrew/cask-fonts
-cask font-inconsolata
-cask font-roboto
-cask font-source-code-pro-for-powerline
-
-tap homebrew/cask-versions
-cask slack-beta
-
-tap homebrew/dupes
-
-tap homebrew/php
-
-tap homebrew/python
-
-tap homebrew/science
-
-tap homebrew/versions
-
-tap caskroom/cask
 
 tap argon/mas
 
