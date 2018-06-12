@@ -25,6 +25,7 @@ brew colordiff
 brew composer
 brew coreutils
 brew cscope
+brew ctop
 brew digdag
 brew direnv
 brew docker-clean
