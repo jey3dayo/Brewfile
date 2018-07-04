@@ -25,6 +25,7 @@ brew colordiff
 brew composer
 brew coreutils
 brew cscope
+brew ctags
 brew ctop
 brew digdag
 brew direnv
@@ -314,10 +315,10 @@ appstore 539883307 LINE (5.8.0)
 appstore 421358730 MenuTab for Facebook (6.9)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
-appstore 407963104 Pixelmator (3.7.1)
+appstore 407963104 Pixelmator (3.7.2)
 appstore 880001334 Reeder (3.1.2)
 appstore 1102341786 RulerSwift (1.0)
-appstore 897118787 Shazam (1.2.5)
+appstore 897118787 Shazam (1.3.0)
 appstore 425955336 Skitch (2.8.2)
 appstore 599799247 SoraAnnai (3.3.1)
 appstore 919269455 StuffIt Expander (16.0.6)
