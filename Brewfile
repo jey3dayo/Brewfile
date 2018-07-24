@@ -105,7 +105,6 @@ brew mecab
 brew mercurial
 brew mhash
 brew mosh
-brew mpfr
 brew msgpack
 brew mycli
 brew mysql
@@ -260,8 +259,6 @@ brew universal-ctags --HEAD
 brew gmp@4
 brew isl@0.12
 brew libmpc@0.8
-brew mpfr@2
-brew ngrok
 
 # Other Cask applications
 cask android-studio
@@ -299,11 +296,11 @@ appstore 918858936 Airmail 3 (3.5.8)
 appstore 1037126344 Apple Configurator 2 (2.7)
 appstore 1091189122 Bear (1.5.5)
 appstore 1141688067 Coin Tick (2.41)
-appstore 1024640650 CotEditor (3.4.3)
+appstore 1024640650 CotEditor (3.4.4)
 appstore 1251526036 CryptocurrencyTicker (0.6.0)
 appstore 411643860 DaisyDisk (4.6.1)
 appstore 449589707 Dash (3.3.1)
-appstore 406056744 Evernote (7.2.1)
+appstore 406056744 Evernote (7.2.2)
 appstore 682658836 GarageBand (10.3.1)
 appstore 428846772 Howler Timer (1.5.1)
 appstore 408981434 iMovie (10.1.9)
@@ -315,15 +312,15 @@ appstore 539883307 LINE (5.8.0)
 appstore 421358730 MenuTab for Facebook (6.9)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
-appstore 407963104 Pixelmator (3.7.2)
+appstore 407963104 Pixelmator (3.7.3)
 appstore 880001334 Reeder (3.1.2)
 appstore 1102341786 RulerSwift (1.0)
-appstore 897118787 Shazam (1.3.0)
+appstore 897118787 Shazam (1.3.2)
 appstore 425955336 Skitch (2.8.2)
 appstore 599799247 SoraAnnai (3.3.1)
 appstore 919269455 StuffIt Expander (16.0.6)
 appstore 425424353 The Unarchiver (4.0.0)
-appstore 585829637 Todoist (7.0.13)
+appstore 585829637 Todoist (7.0.14)
 appstore 557168941 Tweetbot (2.5.7)
 appstore 461369673 VOX (3.3)
 appstore 414855915 WinArchiver Lite (2.5.3)
