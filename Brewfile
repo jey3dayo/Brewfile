@@ -2,10 +2,8 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew ack
 brew ansible
 brew ant
-brew apple-gcc42
 brew apr
 brew apr-util
 brew aspell
@@ -18,11 +16,9 @@ brew bdw-gc
 brew boost
 brew bsdmake
 brew chipmunk
-brew cloog
 brew cmake
 brew cmigemo
 brew colordiff
-brew composer
 brew coreutils
 brew cscope
 brew ctags
@@ -33,9 +29,7 @@ brew docker-clean
 brew eigen
 brew elinks
 brew embulk
-brew etcd
 brew ffmpeg
-brew freetds
 brew freetype
 brew gcc
 brew gdbm
@@ -63,7 +57,6 @@ brew iproute2mac
 brew isl
 brew jasper
 brew jemalloc
-brew jid
 brew jmeter
 brew jpeg
 brew jq
@@ -129,7 +122,6 @@ brew pcre
 brew peco
 brew perl
 brew perl-build
-brew php@7.0
 brew pixman
 brew pkg-config
 brew postgresql
@@ -189,12 +181,6 @@ brew zplug
 brew zsh
 brew zsh-completions
 
-tap homebrew/binary
-
-tap homebrew/boneyard
-
-tap homebrew/bundle
-
 tap homebrew/cask-fonts
 cask font-inconsolata
 cask font-roboto
@@ -202,16 +188,6 @@ cask font-source-code-pro-for-powerline
 
 tap homebrew/cask-versions
 cask slack-beta
-
-tap homebrew/dupes
-
-tap homebrew/php
-
-tap homebrew/python
-
-tap homebrew/science
-
-tap homebrew/versions
 
 tap homebrew/cask
 cask alfred
@@ -250,8 +226,6 @@ tap neovim/neovim
 tap rcmdnk/file
 brew brew-file
 
-tap simeji/jid
-
 tap universal-ctags/universal-ctags
 brew universal-ctags --HEAD
 
@@ -267,7 +241,6 @@ cask bettertouchtool
 cask caffeine
 cask cyberduck
 cask dropbox
-cask flash-player
 cask font-meslo-for-powerline
 cask font-source-code-pro
 cask font-source-han-code-jp
