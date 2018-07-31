@@ -89,6 +89,7 @@ brew luajit
 brew lynx
 brew lz4
 brew lzo
+brew macvim
 brew make
 brew makedepend
 brew mas
