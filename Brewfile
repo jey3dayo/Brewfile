@@ -263,6 +263,7 @@ cask vagrant
 cask virtualbox
 cask vivaldi
 cask wireshark
+cask zoomus
 
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
