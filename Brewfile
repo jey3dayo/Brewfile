@@ -205,8 +205,7 @@ cask imageoptim
 cask intellij-idea
 cask istumbler
 cask keepassx
-cask lastfm
-cask mysqlworkbench
+cask licecap
 cask pg-commander
 cask react-native-debugger
 cask sequel-pro
@@ -227,14 +226,6 @@ tap neovim/neovim
 tap rcmdnk/file
 brew brew-file
 
-tap universal-ctags/universal-ctags
-brew universal-ctags --HEAD
-
-# Other Homebrew packages
-brew gmp@4
-brew isl@0.12
-brew libmpc@0.8
-
 # Other Cask applications
 cask android-studio
 cask bartender
@@ -252,8 +243,7 @@ cask ibettercharge
 cask insomnia
 cask istat-menus
 cask iterm2
-cask kindle
-cask licecap
+cask lastfm
 cask near-lock
 cask quitter
 cask recordit
