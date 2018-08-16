@@ -21,7 +21,6 @@ brew cmigemo
 brew colordiff
 brew coreutils
 brew cscope
-brew ctags
 brew ctop
 brew digdag
 brew direnv
