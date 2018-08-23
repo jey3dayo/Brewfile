@@ -205,15 +205,16 @@ cask imageoptim
 cask intellij-idea
 cask istumbler
 cask keepassx
-cask licecap
-cask pg-commander
-cask react-native-debugger
-cask sequel-pro
-cask spotify
-cask versions
-cask visual-studio-code
-cask vlc
-cask xquartz
+cask lastfm
+cask near-lock
+cask quitter
+cask recordit
+cask skype
+cask vagrant
+cask virtualbox
+cask vivaldi
+cask wireshark
+cask zoomus
 
 tap argon/mas
 
@@ -243,16 +244,16 @@ cask ibettercharge
 cask insomnia
 cask istat-menus
 cask iterm2
-cask lastfm
-cask near-lock
-cask quitter
-cask recordit
-cask skype
-cask vagrant
-cask virtualbox
-cask vivaldi
-cask wireshark
-cask zoomus
+cask kindle
+cask licecap
+cask pg-commander
+cask react-native-debugger
+cask sequel-pro
+cask spotify
+cask versions
+cask visual-studio-code
+cask vlc
+cask xquartz
 
 # App Store applications
 appstore 766939888 1Keyboard (2.6)
