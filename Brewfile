@@ -166,6 +166,7 @@ brew 'the_silver_searcher'
 brew 'theora'
 brew 'tmux'
 brew 'tomcat'
+brew 'trash'
 brew 'tree'
 brew 'unar'
 brew 'unibilium'
@@ -209,22 +210,23 @@ tap 'homebrew/cask'
 cask 'alfred'
 cask 'appcleaner'
 cask 'bathyscaphe'
-cask 'choosy'
-cask 'deckset'
+cask 'chatwork'
+cask 'cyberduck'
+cask 'discord'
 cask 'firefox'
 cask 'google-backup-and-sync'
 cask 'google-japanese-ime'
 cask 'hyperswitch'
-cask 'imageoptim'
-cask 'intellij-idea'
-cask 'istumbler'
+cask 'insomnia'
+cask 'istat-menus'
+cask 'iterm2'
 cask 'keepassx'
 cask 'lastfm'
-cask 'near-lock'
-cask 'quitter'
-cask 'recordit'
-cask 'timemachineeditor'
-cask 'versions'
+cask 'pg-commander'
+cask 'react-native-debugger'
+cask 'sequel-pro'
+cask 'spotify'
+cask 'vagrant'
 cask 'visual-studio-code'
 cask 'vlc'
 cask 'xquartz'
@@ -246,50 +248,44 @@ brew 'brew-file'
 cask 'android-studio'
 cask 'bartender'
 cask 'caffeine'
-cask 'cyberduck'
+cask 'choosy'
+cask 'deckset'
 cask 'dropbox'
 cask 'font-meslo-for-powerline'
 cask 'font-source-code-pro'
 cask 'font-source-han-code-jp'
 cask 'google-chrome'
 cask 'hyper'
-cask 'insomnia'
-cask 'istat-menus'
-cask 'iterm2'
+cask 'imageoptim'
+cask 'intellij-idea'
+cask 'istumbler'
+cask 'karabiner-elements'
 cask 'kindle'
 cask 'licecap'
-cask 'pg-commander'
-cask 'react-native-debugger'
-cask 'sequel-pro'
-cask 'spotify'
-cask 'vagrant'
+cask 'quitter'
+cask 'recordit'
+cask 'skype'
+cask 'timemachineeditor'
+cask 'versions'
 cask 'vivaldi'
 cask 'wireshark'
 cask 'zoomus'
 
 # App Store applications
-mas '1Keyboard (2.6)', id: 766939888
-mas '1Password (6.8.8)', id: 443987910
-mas 'Apple Configurator 2 (2.7.1)', id: 1037126344
+mas '1Password 7 (7.2.2)', id: 1333542190
+mas 'Apple Configurator 2 (2.8.2)', id: 1037126344
 mas 'Bear (1.6.7)', id: 1091189122
-mas 'CotEditor (3.6.9)', id: 1024640650
+mas 'CotEditor (3.6.11)', id: 1024640650
 mas 'DaisyDisk (4.6.5)', id: 411643860
-mas 'Dash (3.3.1)', id: 449589707
-mas 'Evernote (7.6)', id: 406056744
 mas 'Howler Timer (1.5.1)', id: 428846772
 mas 'LastPass (4.3.0)', id: 926036361
 mas 'LGTM (4.0)', id: 1035132445
-mas 'LINE (5.12.0)', id: 539883307
-mas 'Pixelmator (3.8)', id: 407963104
+mas 'LINE (5.12.1)', id: 539883307
+mas 'Pushbullet (4)', id: 948415170
 mas 'Reeder (3.2.1)', id: 880001334
-mas 'RulerSwift (1.0)', id: 1102341786
-mas 'Shazam (2.1)', id: 897118787
-mas 'Skitch (2.8.2)', id: 425955336
 mas 'SoraAnnai (3.4.0)', id: 599799247
 mas 'Spark (2.1.4)', id: 1176895641
-mas 'StuffIt Expander (16.0.6)', id: 919269455
-mas 'The Unarchiver (4.0.0)', id: 425424353
 mas 'Todoist (7.1.1)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode10 (10.1)', id: 497799835
+mas 'Xcode (10.1)', id: 497799835
