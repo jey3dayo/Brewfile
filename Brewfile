@@ -37,13 +37,13 @@ brew 'ghq'
 brew 'git'
 brew 'glib'
 brew 'gmp'
-brew 'gnu-sed', args: ['with-default-names']
-brew 'gnu-tar', args: ['with-default-names']
+brew 'gnu-sed'
+brew 'gnu-tar'
 brew 'gnutls'
 brew 'go'
 brew 'gradle'
 brew 'graphicsmagick'
-brew 'grep', args: ['with-default-names']
+brew 'grep'
 brew 'hadolint'
 brew 'htop'
 brew 'httping'
@@ -92,7 +92,6 @@ brew 'luajit'
 brew 'lynx'
 brew 'lz4'
 brew 'lzo'
-brew 'macvim'
 brew 'make'
 brew 'makedepend'
 brew 'mas'
@@ -210,7 +209,6 @@ tap 'homebrew/cask'
 cask 'alfred'
 cask 'appcleaner'
 cask 'bathyscaphe'
-cask 'bitbar'
 cask 'choosy'
 cask 'deckset'
 cask 'firefox'
@@ -225,7 +223,6 @@ cask 'lastfm'
 cask 'near-lock'
 cask 'quitter'
 cask 'recordit'
-cask 'skype'
 cask 'timemachineeditor'
 cask 'versions'
 cask 'visual-studio-code'
@@ -248,17 +245,14 @@ brew 'brew-file'
 # Other Cask applications
 cask 'android-studio'
 cask 'bartender'
-cask 'bettertouchtool'
 cask 'caffeine'
 cask 'cyberduck'
 cask 'dropbox'
 cask 'font-meslo-for-powerline'
 cask 'font-source-code-pro'
 cask 'font-source-han-code-jp'
-cask 'github-desktop'
 cask 'google-chrome'
 cask 'hyper'
-cask 'ibettercharge'
 cask 'insomnia'
 cask 'istat-menus'
 cask 'iterm2'
@@ -269,7 +263,6 @@ cask 'react-native-debugger'
 cask 'sequel-pro'
 cask 'spotify'
 cask 'vagrant'
-cask 'virtualbox'
 cask 'vivaldi'
 cask 'wireshark'
 cask 'zoomus'
@@ -279,24 +272,14 @@ mas '1Keyboard (2.6)', id: 766939888
 mas '1Password (6.8.8)', id: 443987910
 mas 'Apple Configurator 2 (2.7.1)', id: 1037126344
 mas 'Bear (1.6.7)', id: 1091189122
-mas 'Coin Tick (2.41)', id: 1141688067
 mas 'CotEditor (3.6.9)', id: 1024640650
-mas 'CryptocurrencyTicker (0.6.0)', id: 1251526036
 mas 'DaisyDisk (4.6.5)', id: 411643860
 mas 'Dash (3.3.1)', id: 449589707
 mas 'Evernote (7.6)', id: 406056744
-mas 'GarageBand (10.3.2)', id: 682658836
 mas 'Howler Timer (1.5.1)', id: 428846772
-mas 'iMovie (10.1.10)', id: 408981434
-mas 'Keynote (8.3)', id: 409183694
-mas 'Kobito (2.3.8)', id: 896624060
 mas 'LastPass (4.3.0)', id: 926036361
 mas 'LGTM (4.0)', id: 1035132445
 mas 'LINE (5.12.0)', id: 539883307
-mas 'macOS Mojave (14022)', id: Install
-mas 'MenuTab for Facebook (6.9)', id: 421358730
-mas 'Numbers (5.3)', id: 409203825
-mas 'Pages (7.3)', id: 409201541
 mas 'Pixelmator (3.8)', id: 407963104
 mas 'Reeder (3.2.1)', id: 880001334
 mas 'RulerSwift (1.0)', id: 1102341786
@@ -308,6 +291,5 @@ mas 'StuffIt Expander (16.0.6)', id: 919269455
 mas 'The Unarchiver (4.0.0)', id: 425424353
 mas 'Todoist (7.1.1)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
-mas 'VOX (3.3.6)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
 mas 'Xcode10 (10.1)', id: 497799835
