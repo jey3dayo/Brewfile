@@ -145,7 +145,6 @@ brew 'numpy'
 brew 'oniguruma'
 brew 'openblas'
 brew 'opencore-amr'
-brew 'opencv'
 brew 'openexr'
 brew 'openjpeg'
 brew 'openssl'
@@ -331,11 +330,11 @@ mas 'Howler Timer (1.6)', id: 428846772
 mas 'LastPass (4.4.0)', id: 926036361
 mas 'LGTM (4.0)', id: 1035132445
 mas 'LINE (5.17.2)', id: 539883307
-mas 'Monosnap (3.5.8)', id: 540348655
+mas 'Monosnap (3.5.10)', id: 540348655
 mas 'Reeder (3.2.1)', id: 880001334
-mas 'Spark (2.3.6)', id: 1176895641
+mas 'Spark (2.3.9)', id: 1176895641
 mas 'Todoist (7.1.3)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode (10.2.1)', id: 497799835
+mas 'Xcode (10.3)', id: 497799835
 mas 'そら案内 (3.4.0)', id: 599799247
