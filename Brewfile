@@ -81,7 +81,6 @@ brew 'libyaml'
 brew 'llvm'
 brew 'lua'
 brew 'luajit'
-brew 'lynx'
 brew 'lz4'
 brew 'lzo'
 brew 'make'
@@ -143,7 +142,7 @@ brew 'sqlite'
 brew 'swig'
 brew 'telnet'
 brew 'the_silver_searcher'
-brew 'tmux', args: ['HEAD']
+brew 'tmux'
 brew 'tomcat'
 brew 'tree'
 brew 'unbound'
@@ -196,12 +195,12 @@ cask 'lastfm'
 cask 'minikube'
 cask 'quitter'
 cask 'sequel-pro'
-cask 'skype'
-cask 'timemachineeditor'
-cask 'versions'
-cask 'vivaldi'
-cask 'wireshark'
-cask 'xquartz'
+cask 'spotify'
+cask 'vagrant'
+cask 'visual-studio-code'
+cask 'vlc'
+cask 'workplace-chat'
+cask 'zoomus'
 
 tap 'argon/mas'
 
@@ -243,12 +242,11 @@ cask 'licecap'
 cask 'pg-commander'
 cask 'react-native-debugger'
 cask 'skitch'
-cask 'spotify'
-cask 'vagrant'
-cask 'visual-studio-code'
-cask 'vlc'
-cask 'workplace-chat'
-cask 'zoomus'
+cask 'timemachineeditor'
+cask 'versions'
+cask 'vivaldi'
+cask 'wireshark'
+cask 'xquartz'
 
 # App Store applications
 mas '1Password 7 (7.3.1)', id: 1333542190
@@ -261,7 +259,7 @@ mas 'Exporter (2.0)', id: 1099120373
 mas 'Howler Timer (1.6)', id: 428846772
 mas 'LastPass (4.4.0)', id: 926036361
 mas 'LGTM (4.0)', id: 1035132445
-mas 'LINE (5.17.2)', id: 539883307
+mas 'LINE (5.18.2)', id: 539883307
 mas 'Monosnap (3.5.10)', id: 540348655
 mas 'Reeder (3.2.1)', id: 880001334
 mas 'Spark (2.3.9)', id: 1176895641
