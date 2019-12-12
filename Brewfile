@@ -65,6 +65,7 @@ brew 'libidn2'
 brew 'libmpc'
 brew 'libpng'
 brew 'libspiro'
+brew 'libssh'
 brew 'libssh2'
 brew 'libtasn1'
 brew 'libtermkey'
@@ -103,7 +104,7 @@ brew 'nodebrew'
 brew 'numpy'
 brew 'oniguruma'
 brew 'openblas'
-brew 'openssl'
+brew 'openssl@1.1'
 brew 'openvpn'
 brew 'p11-kit'
 brew 'pango'
@@ -175,11 +176,11 @@ cask 'slack-beta'
 tap 'homebrew/services'
 
 tap 'homebrew/cask'
-cask 'alacritty'
-cask 'android-studio'
-cask 'bartender'
-cask 'caffeine'
-cask 'choosy'
+cask 'adoptopenjdk'
+cask 'alfred'
+cask 'appcleaner'
+cask 'bathyscaphe'
+cask 'chatwork'
 cask 'cyberduck'
 cask 'discord'
 cask 'firefox'
@@ -188,17 +189,16 @@ cask 'google-japanese-ime'
 cask 'hyperswitch'
 cask 'insomnia'
 cask 'istat-menus'
-cask 'iterm2'
-cask 'keepassx'
-cask 'lastfm'
-cask 'quitter'
-cask 'sequel-pro'
-cask 'spotify'
-cask 'vagrant'
-cask 'visual-studio-code'
-cask 'vlc'
-cask 'workplace-chat'
-cask 'zoomus'
+cask 'karabiner-elements'
+cask 'kindle'
+cask 'licecap'
+cask 'react-native-debugger'
+cask 'skitch'
+cask 'timemachineeditor'
+cask 'versions'
+cask 'vivaldi'
+cask 'wireshark'
+cask 'xquartz'
 
 tap 'argon/mas'
 
@@ -217,10 +217,11 @@ tap 'sanemat/font'
 brew 'ricty', args: ['with-powerline']
 
 # Other Cask applications
-cask 'alfred'
-cask 'appcleaner'
-cask 'bathyscaphe'
-cask 'chatwork'
+cask 'alacritty'
+cask 'android-studio'
+cask 'bartender'
+cask 'caffeine'
+cask 'choosy'
 cask 'deckset'
 cask 'dropbox'
 cask 'font-inconsolata-dz-for-powerline'
@@ -231,34 +232,38 @@ cask 'google-chrome'
 cask 'hyper'
 cask 'imageoptim'
 cask 'intellij-idea'
-cask 'karabiner-elements'
-cask 'kindle'
-cask 'licecap'
-cask 'react-native-debugger'
-cask 'skitch'
-cask 'timemachineeditor'
-cask 'versions'
-cask 'vivaldi'
-cask 'wireshark'
-cask 'xquartz'
+cask 'iterm2'
+cask 'keepassx'
+cask 'lastfm'
+cask 'quitter'
+cask 'sequel-pro'
+cask 'spotify'
+cask 'vagrant'
+cask 'visual-studio-code'
+cask 'vlc'
+cask 'workplace-chat'
+cask 'zoomus'
 
 # App Store applications
-mas '1Password 7 (7.3.1)', id: 1333542190
-mas 'Apple Configurator 2 (2.9)', id: 1037126344
-mas 'Bear (1.6.15)', id: 1091189122
-mas 'BetterSnapTool (1.9)', id: 417375580
-mas 'CotEditor (3.7.8)', id: 1024640650
-mas 'DaisyDisk (4.7.2)', id: 411643860
-mas 'Exporter (2.0)', id: 1099120373
+mas '1Password 7 (7.4.1)', id: 1333542190
+mas 'BetterSnapTool (1.9.2)', id: 417375580
+mas 'CotEditor (3.8.7)', id: 1024640650
+mas 'DaisyDisk (4.8)', id: 411643860
+mas 'GarageBand (10.3.2)', id: 682658836
 mas 'Howler Timer (1.6)', id: 428846772
+mas 'iMovie (10.1.11)', id: 408981434
+mas 'Keynote (9.0.1)', id: 409183694
+mas 'Kindle (1.26.1)', id: 405399194
 mas 'LastPass (4.4.0)', id: 926036361
-mas 'LGTM (4.0)', id: 1035132445
-mas 'LINE (5.18.2)', id: 539883307
-mas 'Monosnap (3.5.10)', id: 540348655
-mas 'Reeder (3.2.1)', id: 880001334
-mas 'Spark (2.3.9)', id: 1176895641
-mas 'Todoist (7.1.3)', id: 585829637
-mas 'Tweetbot (2.5.8)', id: 557168941
+mas 'LINE (5.20.1)', id: 539883307
+mas 'MenuTab (6.9)', id: 421358730
+mas 'Numbers (6.0)', id: 409203825
+mas 'Pages (8.0)', id: 409201541
+mas 'Reeder (3.2.2)', id: 880001334
+mas 'Shazam (2.9.0)', id: 897118787
+mas 'Skitch (2.8.4)', id: 425955336
+mas 'Spark (2.5.1)', id: 1176895641
+mas 'Todoist (7.2.2)', id: 585829637
+mas 'VOX (3.3.14)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode (10.3)', id: 497799835
 mas 'そら案内 (3.4.0)', id: 599799247
