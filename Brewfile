@@ -247,24 +247,24 @@ brew 'ricty', args: ['with-powerline']
 # App Store applications
 mas '1Password 7 (7.4.1)', id: 1333542190
 mas 'BetterSnapTool (1.9.2)', id: 417375580
-mas 'CotEditor (3.8.7)', id: 1024640650
+mas 'CotEditor (3.8.9)', id: 1024640650
 mas 'DaisyDisk (4.8)', id: 411643860
 mas 'Howler Timer (1.6)', id: 428846772
 mas 'iMovie (10.1.14)', id: 408981434
 mas 'Keynote (9.2.1)', id: 409183694
 mas 'Kindle (1.26.1)', id: 405399194
 mas 'LastPass (4.4.0)', id: 926036361
-mas 'LINE (5.20.1)', id: 539883307
+mas 'LINE (5.21.3)', id: 539883307
 mas 'MenuTab (6.9)', id: 421358730
 mas 'Numbers (6.2.1)', id: 409203825
 mas 'Pages (8.2.1)', id: 409201541
-mas 'Reeder (3.2.2)', id: 880001334
+mas 'Reeder (3.2.3)', id: 880001334
 mas 'Shazam (2.9.0)', id: 897118787
 mas 'Skitch (2.8.4)', id: 425955336
-mas 'Spark (2.5.1)', id: 1176895641
-mas 'Todoist (7.2.2)', id: 585829637
+mas 'Spark (2.5.2)', id: 1176895641
+mas 'Todoist (7.2.3)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
-mas 'VOX (3.3.14)', id: 461369673
+mas 'VOX (3.3.17)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode (11.3)', id: 497799835
+mas 'Xcode (11.3.1)', id: 497799835
 mas 'そら案内 (3.4.0)', id: 599799247
