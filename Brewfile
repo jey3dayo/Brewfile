@@ -250,9 +250,7 @@ mas 'BetterSnapTool (1.9.2)', id: 417375580
 mas 'CotEditor (3.8.9)', id: 1024640650
 mas 'DaisyDisk (4.8)', id: 411643860
 mas 'Howler Timer (1.6)', id: 428846772
-mas 'iMovie (10.1.14)', id: 408981434
 mas 'Keynote (9.2.1)', id: 409183694
-mas 'Kindle (1.26.1)', id: 405399194
 mas 'LastPass (4.4.0)', id: 926036361
 mas 'LINE (5.21.3)', id: 539883307
 mas 'MenuTab (6.9)', id: 421358730
