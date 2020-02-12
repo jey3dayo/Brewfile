@@ -124,7 +124,6 @@ brew 'protobuf'
 brew 'pyenv'
 brew 'pyenv-virtualenv'
 brew 'python'
-brew 'python@2'
 brew 'python@3.8'
 brew 'qemu'
 brew 'rainbarf'
@@ -245,6 +244,9 @@ brew 'brew-file'
 tap 'sanemat/font'
 brew 'ricty', args: ['with-powerline']
 
+# Other Homebrew packages
+brew 'python@2'
+
 # App Store applications
 mas '1Password 7 (7.4.1)', id: 1333542190
 mas 'BetterSnapTool (1.9.2)', id: 417375580
@@ -261,7 +263,7 @@ mas 'Reeder (3.2.3)', id: 880001334
 mas 'Shazam (2.9.0)', id: 897118787
 mas 'Skitch (2.8.4)', id: 425955336
 mas 'Spark (2.5.2)', id: 1176895641
-mas 'Todoist (7.2.3)', id: 585829637
+mas 'Todoist (7.2.4)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
 mas 'VOX (3.3.17)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
