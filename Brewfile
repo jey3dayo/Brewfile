@@ -248,7 +248,7 @@ brew 'ricty', args: ['with-powerline']
 brew 'python@2'
 
 # App Store applications
-mas '1Password 7 (7.4.1)', id: 1333542190
+mas '1Password 7 (7.4.2)', id: 1333542190
 mas 'BetterSnapTool (1.9.2)', id: 417375580
 mas 'CotEditor (3.8.9)', id: 1024640650
 mas 'DaisyDisk (4.8)', id: 411643860
@@ -260,7 +260,7 @@ mas 'MenuTab (6.9)', id: 421358730
 mas 'Numbers (6.2.1)', id: 409203825
 mas 'Pages (8.2.1)', id: 409201541
 mas 'Reeder (3.2.3)', id: 880001334
-mas 'Shazam (2.9.0)', id: 897118787
+mas 'Shazam (2.10.0)', id: 897118787
 mas 'Skitch (2.8.4)', id: 425955336
 mas 'Spark (2.5.2)', id: 1176895641
 mas 'Todoist (7.2.4)', id: 585829637
