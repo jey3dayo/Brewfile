@@ -8,6 +8,7 @@ brew 'autoconf'
 brew 'autojump'
 brew 'automake'
 brew 'bash-completion'
+brew 'bat'
 brew 'boost'
 brew 'bsdmake'
 brew 'cairo'
@@ -23,6 +24,8 @@ brew 'direnv'
 brew 'docker-clean'
 brew 'eigen'
 brew 'elinks'
+brew 'exa'
+brew 'fd'
 brew 'fish'
 brew 'fontconfig'
 brew 'fontforge'
@@ -32,6 +35,7 @@ brew 'fzf'
 brew 'gcc'
 brew 'gdbm'
 brew 'gettext'
+brew 'gh'
 brew 'ghq'
 brew 'giflib'
 brew 'git'
@@ -57,6 +61,7 @@ brew 'jmeter'
 brew 'jpeg'
 brew 'jq'
 brew 'kompose'
+brew 'krb5'
 brew 'kubernetes-cli'
 brew 'lazygit'
 brew 'libevent'
@@ -150,6 +155,7 @@ brew 'tomcat'
 brew 'tree'
 brew 'unbound'
 brew 'unibilium'
+brew 'utf8proc'
 brew 'vault'
 brew 'vde'
 brew 'vim'
@@ -232,6 +238,8 @@ tap 'argon/mas'
 
 tap 'buo/cask-upgrade'
 
+tap 'github/gh'
+
 tap 'heroku/brew'
 brew 'heroku'
 brew 'heroku-node'
@@ -248,21 +256,21 @@ brew 'ricty', args: ['with-powerline']
 brew 'python@2'
 
 # App Store applications
-mas '1Password 7 (7.4.2)', id: 1333542190
+mas '1Password 7 (7.4.4)', id: 1333542190
 mas 'BetterSnapTool (1.9.2)', id: 417375580
-mas 'CotEditor (3.8.9)', id: 1024640650
-mas 'DaisyDisk (4.8)', id: 411643860
+mas 'CotEditor (3.8.12)', id: 1024640650
+mas 'DaisyDisk (4.9)', id: 411643860
 mas 'Howler Timer (1.6)', id: 428846772
 mas 'Keynote (9.2.1)', id: 409183694
 mas 'LastPass (4.4.0)', id: 926036361
-mas 'LINE (5.21.3)', id: 539883307
+mas 'LINE (5.22.0)', id: 539883307
 mas 'MenuTab (6.9)', id: 421358730
 mas 'Numbers (6.2.1)', id: 409203825
 mas 'Pages (8.2.1)', id: 409201541
 mas 'Reeder (3.2.3)', id: 880001334
 mas 'Shazam (2.10.0)', id: 897118787
 mas 'Skitch (2.8.4)', id: 425955336
-mas 'Spark (2.5.2)', id: 1176895641
+mas 'Spark (2.5.5)', id: 1176895641
 mas 'Todoist (7.2.4)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
 mas 'VOX (3.3.17)', id: 461369673
