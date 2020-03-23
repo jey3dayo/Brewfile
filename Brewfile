@@ -194,6 +194,7 @@ cask 'alacritty'
 cask 'alfred'
 cask 'android-studio'
 cask 'appcleaner'
+cask 'authy'
 cask 'bartender'
 cask 'bathyscaphe'
 cask 'caffeine'
@@ -223,6 +224,7 @@ cask 'quitter'
 cask 'react-native-debugger'
 cask 'skitch'
 cask 'spotify'
+cask 'tableplus'
 cask 'timemachineeditor'
 cask 'vagrant'
 cask 'versions'
@@ -252,28 +254,25 @@ brew 'brew-file'
 tap 'sanemat/font'
 brew 'ricty', args: ['with-powerline']
 
-# Other Homebrew packages
-brew 'python@2'
-
 # App Store applications
 mas '1Password 7 (7.4.4)', id: 1333542190
-mas 'BetterSnapTool (1.9.2)', id: 417375580
+mas 'BetterSnapTool (1.9.3)', id: 417375580
 mas 'CotEditor (3.8.12)', id: 1024640650
-mas 'DaisyDisk (4.9)', id: 411643860
+mas 'DaisyDisk (4.10)', id: 411643860
+mas 'GarageBand (10.3.2)', id: 682658836
 mas 'Howler Timer (1.6)', id: 428846772
-mas 'Keynote (9.2.1)', id: 409183694
-mas 'LastPass (4.4.0)', id: 926036361
-mas 'LINE (5.22.0)', id: 539883307
+mas 'iMovie (10.1.11)', id: 408981434
+mas 'Keynote (9.0.1)', id: 409183694
+mas 'LINE (5.23.0)', id: 539883307
 mas 'MenuTab (6.9)', id: 421358730
-mas 'Numbers (6.2.1)', id: 409203825
-mas 'Pages (8.2.1)', id: 409201541
+mas 'Numbers (6.0)', id: 409203825
+mas 'Pages (8.0)', id: 409201541
 mas 'Reeder (3.2.3)', id: 880001334
-mas 'Shazam (2.10.0)', id: 897118787
+mas 'Reeder (4.2.3)', id: 1449412482
 mas 'Skitch (2.8.4)', id: 425955336
-mas 'Spark (2.5.5)', id: 1176895641
-mas 'Todoist (7.2.4)', id: 585829637
+mas 'Spark (2.5.6)', id: 1176895641
+mas 'Todoist (7.2.6)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
 mas 'VOX (3.3.17)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode (11.3.1)', id: 497799835
 mas 'そら案内 (3.4.0)', id: 599799247
