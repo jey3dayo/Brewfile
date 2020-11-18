@@ -32,6 +32,7 @@ brew 'fontconfig'
 brew 'fontforge'
 brew 'freetype'
 brew 'fribidi'
+brew 'fx'
 brew 'fzf'
 brew 'gcc'
 brew 'gdbm'
@@ -118,6 +119,7 @@ brew 'numpy'
 brew 'oniguruma'
 brew 'openblas'
 brew 'openjdk'
+brew 'openjdk@8'
 brew 'openssl@1.1'
 brew 'openvpn'
 brew 'p11-kit'
@@ -180,6 +182,7 @@ brew 'zsh-completions'
 tap 'homebrew/bundle'
 
 tap 'homebrew/cask-fonts'
+cask 'font-hack-nerd-font'
 cask 'font-inconsolata'
 cask 'font-inconsolata-dz-for-powerline'
 cask 'font-meslo-for-powerline'
@@ -204,6 +207,7 @@ cask 'appcleaner'
 cask 'authy'
 cask 'bartender'
 cask 'bathyscaphe'
+cask 'bitbar'
 cask 'caffeine'
 cask 'chatwork'
 cask 'choosy'
@@ -230,6 +234,7 @@ cask 'lastfm'
 cask 'licecap'
 cask 'quitter'
 cask 'react-native-debugger'
+cask 'scroll-reverser'
 cask 'sketch'
 cask 'skitch'
 cask 'spotify'
@@ -275,27 +280,27 @@ brew 'ricty', args: ['with-powerline']
 # App Store applications
 mas '1Password 7 (7.6)', id: 1333542190
 mas 'BetterSnapTool (1.9.3)', id: 417375580
-mas 'CotEditor (3.9.6)', id: 1024640650
+mas 'CotEditor (4.0.1)', id: 1024640650
 mas 'DaisyDisk (4.11)', id: 411643860
 mas 'Howler Timer (1.6.1)', id: 428846772
-mas 'Keynote (10.2)', id: 409183694
+mas 'Keynote (10.3.5)', id: 409183694
 mas 'LastPass (4.4.0)', id: 926036361
-mas 'LINE (6.3.1)', id: 539883307
-mas 'MARKETSPEED (2.9.1)', id: 946680495
+mas 'LINE (6.4.0)', id: 539883307
+mas 'MARKETSPEED (2.9.3)', id: 946680495
 mas 'MenuTab (6.9)', id: 421358730
-mas 'Microsoft To Do (2.28)', id: 1274495053
-mas 'Numbers (10.2)', id: 409203825
-mas 'Pages (10.2)', id: 409201541
+mas 'Microsoft To Do (2.31)', id: 1274495053
+mas 'Numbers (10.3.5)', id: 409203825
+mas 'Pages (10.3.5)', id: 409201541
 mas 'Reeder (3.2.3)', id: 880001334
-mas 'Reeder (4.2.7)', id: 1449412482
-mas 'Sequel Ace (2.1.8)', id: 1518036000
+mas 'Reeder (4.2.8)', id: 1449412482
+mas 'Sequel Ace (2.3.0)', id: 1518036000
 mas 'Skitch (2.9)', id: 425955336
-mas 'Spark (2.9.5)', id: 1176895641
-mas 'Streaks (6.0.1)', id: 1493327990
-mas 'Todoist (7.3.4)', id: 585829637
+mas 'Spark (2.9.10)', id: 1176895641
+mas 'Streaks (6.0.3)', id: 1493327990
+mas 'Todoist (7.4)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
-mas 'Twitter (8.38)', id: 1482454543
+mas 'Twitter (8.43.11)', id: 1482454543
 mas 'VOX (3.3.17)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode (12.0.1)', id: 497799835
+mas 'Xcode (12.2)', id: 497799835
 mas 'そら案内 (3.4.0)', id: 599799247
