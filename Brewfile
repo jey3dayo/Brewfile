@@ -28,6 +28,7 @@ brew 'coreutils'
 brew 'cscope'
 brew 'ctop'
 brew 'dark-mode'
+brew 'deno'
 brew 'dialog'
 brew 'digdag'
 brew 'direnv'
@@ -121,6 +122,7 @@ brew 'libxrender'
 brew 'libyaml'
 brew 'llvm'
 brew 'lua'
+brew 'lua@5.1'
 brew 'luajit', args: ['HEAD']
 brew 'luajit-openresty'
 brew 'luarocks'
@@ -170,7 +172,6 @@ brew 'pkcs11-helper'
 brew 'pkg-config'
 brew 'postgresql'
 brew 'protobuf'
-brew 'pyenv'
 brew 'pyenv-pip-migrate'
 brew 'pyenv-virtualenv'
 brew 'python-tabulate'
@@ -189,6 +190,7 @@ brew 'ripgrep'
 brew 'ruby'
 brew 'ruby-build'
 brew 'rust'
+brew 'rust-analyzer'
 brew 's3cmd'
 brew 'sbt'
 brew 'scala'
@@ -312,6 +314,7 @@ tap 'argon/mas'
 
 tap 'aws/tap'
 brew 'aws-sam-cli'
+brew 'copilot-cli'
 
 tap 'buo/cask-upgrade'
 
@@ -335,34 +338,39 @@ brew 'assume-role'
 tap 'sanemat/font'
 brew 'ricty', args: ['with-powerline']
 
+tap 'vectordotdev/brew'
+brew 'vector'
+
 # Other Cask applications
 cask 'font-source-han-code-jp'
 cask 'google-backup-and-sync'
 
 # App Store applications
-mas '1Password 7 (7.7)', id: 1333542190
+mas '1Password 7 (7.9.1)', id: 1333542190
+mas 'Apple Configurator 2 (2.15)', id: 1037126344
 mas 'BetterSnapTool (1.9.5)', id: 417375580
-mas 'CotEditor (4.0.1)', id: 1024640650
-mas 'DaisyDisk (4.12.1)', id: 411643860
+mas 'CommentScreen (1.1.1)', id: 1450950860
+mas 'CotEditor (4.0.8)', id: 1024640650
+mas 'DaisyDisk (4.21.4)', id: 411643860
 mas 'Howler Timer (1.6.1)', id: 428846772
-mas 'Keynote (10.3.5)', id: 409183694
+mas 'ImageOptim (1.4.1)', id: 1450716465
+mas 'Keynote (11.2)', id: 409183694
 mas 'LastPass (4.4.0)', id: 926036361
-mas 'LINE (6.4.0)', id: 539883307
-mas 'MARKETSPEED (2.9.3)', id: 946680495
-mas 'MenuTab (6.9)', id: 421358730
-mas 'Microsoft To Do (2.31)', id: 1274495053
-mas 'Numbers (10.3.5)', id: 409203825
-mas 'Pages (10.3.5)', id: 409201541
+mas 'LINE (7.3.1)', id: 539883307
+mas 'MARKETSPEED (2.9.6)', id: 946680495
+mas 'Monosnap (4.16.1)', id: 540348655
+mas 'Numbers (11.2)', id: 409203825
+mas 'Pages (11.2)', id: 409201541
 mas 'Reeder (3.2.3)', id: 880001334
 mas 'Reeder (4.2.8)', id: 1449412482
-mas 'Sequel Ace (2.3.0)', id: 1518036000
 mas 'Skitch (2.9)', id: 425955336
-mas 'Spark (2.9.10)', id: 1176895641
-mas 'Streaks (6.0.5)', id: 1493327990
-mas 'Todoist (7.5)', id: 585829637
+mas 'Spark (2.11.5)', id: 1176895641
+mas 'Streaks (7.1.6)', id: 1493327990
+mas 'Todoist (8.0.1)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
-mas 'Twitter (8.44.1)', id: 1482454543
-mas 'VOX (3.3.18)', id: 461369673
+mas 'TweetDeck (3.18)', id: 485812721
+mas 'Twitter (8.89)', id: 1482454543
+mas 'VOX (3.4.2)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode (12.2)', id: 497799835
+mas 'Xcode (13.1)', id: 497799835
 mas 'そら案内 (3.5.0)', id: 599799247
