@@ -112,7 +112,6 @@ brew 'libuninameslist'
 brew 'libunistring'
 brew 'libusb'
 brew 'libuv'
-brew 'libvterm'
 brew 'libx11'
 brew 'libxau'
 brew 'libxcb'
@@ -144,7 +143,7 @@ brew 'mycli'
 brew 'mysql@5.6'
 brew 'mysql@5.7'
 brew 'ncurses'
-brew 'neovim', args: ['HEAD']
+brew 'neovim'
 brew 'nettle'
 brew 'nghttp2'
 brew 'nginx'
@@ -353,24 +352,24 @@ mas 'CommentScreen (1.1.1)', id: 1450950860
 mas 'CotEditor (4.0.8)', id: 1024640650
 mas 'DaisyDisk (4.21.4)', id: 411643860
 mas 'Howler Timer (1.6.1)', id: 428846772
-mas 'ImageOptim (1.4.1)', id: 1450716465
+mas 'ImageOptim (1.4.3)', id: 1450716465
 mas 'Keynote (11.2)', id: 409183694
 mas 'LastPass (4.4.0)', id: 926036361
 mas 'LINE (7.3.1)', id: 539883307
 mas 'MARKETSPEED (2.9.6)', id: 946680495
-mas 'Monosnap (4.16.1)', id: 540348655
+mas 'Monosnap (4.17.1)', id: 540348655
 mas 'Numbers (11.2)', id: 409203825
 mas 'Pages (11.2)', id: 409201541
 mas 'Reeder (3.2.3)', id: 880001334
 mas 'Reeder (4.2.8)', id: 1449412482
 mas 'Skitch (2.9)', id: 425955336
-mas 'Spark (2.11.5)', id: 1176895641
-mas 'Streaks (7.1.6)', id: 1493327990
-mas 'Todoist (8.0.1)', id: 585829637
+mas 'Spark (2.11.6)', id: 1176895641
+mas 'Streaks (7.1.8)', id: 1493327990
+mas 'Todoist (8.0.2)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
 mas 'TweetDeck (3.18)', id: 485812721
-mas 'Twitter (8.89)', id: 1482454543
-mas 'VOX (3.4.2)', id: 461369673
+mas 'Twitter (8.90.1)', id: 1482454543
+mas 'VOX (3.4.3)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
 mas 'Xcode (13.1)', id: 497799835
 mas 'そら案内 (3.5.0)', id: 599799247
