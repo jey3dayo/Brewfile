@@ -231,6 +231,7 @@ brew 'zstd'
 tap 'homebrew/bundle'
 
 tap 'homebrew/cask-fonts'
+cask 'font-roboto'
 cask 'font-hack-nerd-font'
 cask 'font-inconsolata'
 cask 'font-inconsolata-dz-for-powerline'
