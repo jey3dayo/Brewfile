@@ -235,7 +235,6 @@ cask 'font-inconsolata'
 cask 'font-inconsolata-dz-for-powerline'
 cask 'font-meslo-for-powerline'
 cask 'font-powerline-symbols'
-cask 'font-roboto'
 cask 'font-source-code-pro'
 cask 'font-source-code-pro-for-powerline'
 
