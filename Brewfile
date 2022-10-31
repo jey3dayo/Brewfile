@@ -241,7 +241,6 @@ cask 'font-source-code-pro'
 cask 'font-source-code-pro-for-powerline'
 
 tap 'homebrew/cask-versions'
-cask 'adoptopenjdk8'
 cask 'sequel-pro-nightly'
 cask 'slack-beta'
 cask 'zulu8'
