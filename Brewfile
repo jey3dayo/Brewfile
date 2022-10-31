@@ -143,7 +143,7 @@ brew 'mycli'
 brew 'mysql@5.6'
 brew 'mysql@5.7'
 brew 'ncurses'
-brew 'neovim'
+brew 'neovim', args: ['HEAD']
 brew 'nettle'
 brew 'nghttp2'
 brew 'nginx'
@@ -185,6 +185,7 @@ brew 'readline'
 brew 'reattach-to-user-namespace'
 brew 'redis'
 brew 'redpen'
+brew 'rename'
 brew 'ripgrep'
 brew 'ruby'
 brew 'ruby-build'
@@ -219,7 +220,6 @@ brew 'wget'
 brew 'xmlto'
 brew 'xorgproto'
 brew 'xz'
-brew 'yarn'
 brew 'z'
 brew 'zlib'
 brew 'zplug'
@@ -262,6 +262,7 @@ cask 'chatwork'
 cask 'choosy'
 cask 'cyberduck'
 cask 'deckset'
+cask 'devutils'
 cask 'discord'
 cask 'dropbox'
 cask 'firefox'
@@ -345,31 +346,33 @@ cask 'font-source-han-code-jp'
 cask 'google-backup-and-sync'
 
 # App Store applications
-mas '1Password 7 (7.9.1)', id: 1333542190
+mas '1Password 7 (7.9.2)', id: 1333542190
 mas 'Apple Configurator 2 (2.15)', id: 1037126344
 mas 'BetterSnapTool (1.9.5)', id: 417375580
-mas 'CommentScreen (1.1.1)', id: 1450950860
-mas 'CotEditor (4.0.8)', id: 1024640650
+mas 'CommentScreen (1.1.3)', id: 1450950860
+mas 'CotEditor (4.0.9)', id: 1024640650
 mas 'DaisyDisk (4.21.4)', id: 411643860
 mas 'Howler Timer (1.6.1)', id: 428846772
-mas 'ImageOptim (1.4.3)', id: 1450716465
+mas 'ImageOptim (1.4.4)', id: 1450716465
 mas 'Keynote (11.2)', id: 409183694
 mas 'LastPass (4.4.0)', id: 926036361
-mas 'LINE (7.3.1)', id: 539883307
+mas 'LINE (7.5.0)', id: 539883307
 mas 'MARKETSPEED (2.9.6)', id: 946680495
-mas 'Monosnap (4.17.1)', id: 540348655
+mas 'MenubarX (1.1.5)', id: 1575588022
+mas 'Monosnap (4.18.0)', id: 540348655
 mas 'Numbers (11.2)', id: 409203825
 mas 'Pages (11.2)', id: 409201541
 mas 'Reeder (3.2.3)', id: 880001334
 mas 'Reeder (4.2.8)', id: 1449412482
 mas 'Skitch (2.9)', id: 425955336
-mas 'Spark (2.11.6)', id: 1176895641
-mas 'Streaks (7.1.8)', id: 1493327990
-mas 'Todoist (8.0.2)', id: 585829637
+mas 'Spark (2.11.10)', id: 1176895641
+mas 'Streaks (7.1.11)', id: 1493327990
+mas 'Todoist (8.0.4)', id: 585829637
 mas 'Tweetbot (2.5.8)', id: 557168941
 mas 'TweetDeck (3.18)', id: 485812721
-mas 'Twitter (8.90.1)', id: 1482454543
-mas 'VOX (3.4.3)', id: 461369673
+mas 'Twitter (8.96)', id: 1482454543
+mas 'VOX (3.4.4)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode (13.1)', id: 497799835
-mas 'そら案内 (3.5.0)', id: 599799247
+mas 'Xcode (13.2.1)', id: 497799835
+mas 'そら案内 (4.1.0)', id: 599799247
+mas '世界株価ｱﾗｰﾄ (2.4.0)', id: 1273092330
