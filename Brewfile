@@ -340,10 +340,6 @@ brew 'ricty', args: ['with-powerline']
 tap 'vectordotdev/brew'
 brew 'vector'
 
-# Other Cask applications
-cask 'font-source-han-code-jp'
-cask 'google-backup-and-sync'
-
 # App Store applications
 mas '1Password 7 (7.9.2)', id: 1333542190
 mas 'Apple Configurator 2 (2.15)', id: 1037126344
