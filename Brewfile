@@ -20,6 +20,7 @@ brew 'bsdmake'
 brew 'c-ares'
 brew 'ca-certificates'
 brew 'cairo'
+brew 'capstone'
 brew 'certbot'
 brew 'cmake'
 brew 'cmigemo'
@@ -36,12 +37,16 @@ brew 'docbook'
 brew 'docbook-xsl'
 brew 'docker-clean'
 brew 'double-conversion'
+brew 'edencommon'
 brew 'eigen'
 brew 'elinks'
 brew 'exa'
 brew 'fasd'
+brew 'fb303'
+brew 'fbthrift'
 brew 'fd'
 brew 'fish'
+brew 'fizz'
 brew 'fmt'
 brew 'folly'
 brew 'fontconfig'
@@ -82,6 +87,7 @@ brew 'isl'
 brew 'jemalloc'
 brew 'jmeter'
 brew 'jpeg'
+brew 'jpeg-turbo'
 brew 'jq'
 brew 'kompose'
 brew 'krb5'
@@ -100,7 +106,9 @@ brew 'libmpc'
 brew 'libnghttp2'
 brew 'libpng'
 brew 'libpthread-stubs'
+brew 'libpython-tabulate'
 brew 'libslirp'
+brew 'libsodium'
 brew 'libspiro'
 brew 'libssh'
 brew 'libssh2'
@@ -112,6 +120,7 @@ brew 'libuninameslist'
 brew 'libunistring'
 brew 'libusb'
 brew 'libuv'
+brew 'libvterm'
 brew 'libx11'
 brew 'libxau'
 brew 'libxcb'
@@ -119,6 +128,7 @@ brew 'libxdmcp'
 brew 'libxext'
 brew 'libxrender'
 brew 'libyaml'
+brew 'little-cms2'
 brew 'llvm'
 brew 'lua'
 brew 'lua@5.1'
@@ -153,6 +163,7 @@ brew 'oniguruma'
 brew 'openblas'
 brew 'openjdk'
 brew 'openjdk@11'
+brew 'openjdk@17'
 brew 'openssl@1.1'
 brew 'openvpn'
 brew 'p11-kit'
@@ -166,11 +177,16 @@ brew 'perl-build'
 brew 'pixman'
 brew 'pkcs11-helper'
 brew 'pkg-config'
-brew 'postgresql'
+brew 'postgresql@14'
 brew 'protobuf'
+brew 'pyenv'
 brew 'pyenv-pip-migrate'
 brew 'pyenv-virtualenv'
+brew 'pygments'
 brew 'python-tabulate'
+brew 'python@3.10'
+brew 'python@3.8'
+brew 'pyyaml'
 brew 'qemu'
 brew 'rainbarf'
 brew 'rbenv'
@@ -193,7 +209,6 @@ brew 'six'
 brew 'snappy'
 brew 'sqlite'
 brew 'subversion'
-brew 'svn'
 brew 'swig'
 brew 'tcl-tk'
 brew 'telnet'
@@ -203,18 +218,22 @@ brew 'tmux'
 brew 'tomcat'
 brew 'tree'
 brew 'tree-sitter'
+brew 'trivy'
 brew 'unbound'
 brew 'unibilium'
 brew 'utf8proc'
 brew 'vault'
 brew 'vde'
+brew 'wangle'
 brew 'watch'
 brew 'watchman'
 brew 'wget'
+brew 'woff2'
 brew 'xmlto'
 brew 'xorgproto'
 brew 'xz'
 brew 'z'
+brew 'z3'
 brew 'zlib'
 brew 'zplug'
 brew 'zsh'
@@ -224,16 +243,17 @@ brew 'zstd'
 tap 'homebrew/bundle'
 
 tap 'homebrew/cask-fonts'
-cask 'font-roboto'
 cask 'font-hack-nerd-font'
 cask 'font-inconsolata'
 cask 'font-inconsolata-dz-for-powerline'
 cask 'font-meslo-for-powerline'
 cask 'font-powerline-symbols'
+cask 'font-roboto'
 cask 'font-source-code-pro'
 cask 'font-source-code-pro-for-powerline'
 
 tap 'homebrew/cask-versions'
+cask 'adoptopenjdk8'
 cask 'sequel-pro-nightly'
 cask 'slack-beta'
 cask 'zulu8'
@@ -272,7 +292,6 @@ cask 'iterm2'
 cask 'karabiner-elements'
 cask 'keepassx'
 cask 'kindle'
-#cask 'krisp'
 cask 'lastfm'
 cask 'licecap'
 cask 'quitter'
@@ -300,7 +319,6 @@ cask 'zoom'
 tap 'adoptopenjdk/openjdk'
 
 tap 'aquasecurity/trivy'
-brew 'trivy'
 
 tap 'argon/mas'
 
@@ -334,33 +352,32 @@ tap 'vectordotdev/brew'
 brew 'vector'
 
 # App Store applications
-mas '1Password 7 (7.9.2)', id: 1333542190
-mas 'Apple Configurator 2 (2.15)', id: 1037126344
-mas 'BetterSnapTool (1.9.5)', id: 417375580
-mas 'CommentScreen (1.1.3)', id: 1450950860
-mas 'CotEditor (4.0.9)', id: 1024640650
-mas 'DaisyDisk (4.21.4)', id: 411643860
+mas 'Apple Configurator (2.15.1)', id: 1037126344
+mas 'BetterSnapTool (1.9.8)', id: 417375580
+mas 'CommentScreen (1.1.4)', id: 1450950860
+mas 'CotEditor (4.4.0)', id: 1024640650
+mas 'DaisyDisk (4.23.1)', id: 411643860
+mas 'Darkroom (6.1.1)', id: 953286746
+mas 'Developer (10.1.3)', id: 640199958
+mas 'Fantastical (3.7.2)', id: 975937182
+mas 'GarageBand (10.4.5)', id: 682658836
 mas 'Howler Timer (1.6.1)', id: 428846772
-mas 'ImageOptim (1.4.4)', id: 1450716465
+mas 'ImageOptim (1.5.0)', id: 1450716465
+mas 'iMovie (10.3.1)', id: 408981434
 mas 'Keynote (11.2)', id: 409183694
-mas 'LastPass (4.4.0)', id: 926036361
-mas 'LINE (7.5.0)', id: 539883307
-mas 'MARKETSPEED (2.9.6)', id: 946680495
-mas 'MenubarX (1.1.5)', id: 1575588022
-mas 'Monosnap (4.18.0)', id: 540348655
+mas 'LINE (7.12.1)', id: 539883307
+mas 'MagicCopy (3.0.2)', id: 1434526691
+mas 'MARKETSPEED (3.0.0)', id: 946680495
+mas 'MeetingBar (4.1.0)', id: 1532419400
+mas 'MenubarX (1.5.3)', id: 1575588022
+mas 'Monosnap (5.1.7)', id: 540348655
 mas 'Numbers (11.2)', id: 409203825
 mas 'Pages (11.2)', id: 409201541
-mas 'Reeder (3.2.3)', id: 880001334
-mas 'Reeder (4.2.8)', id: 1449412482
-mas 'Skitch (2.9)', id: 425955336
-mas 'Spark (2.11.10)', id: 1176895641
-mas 'Streaks (7.1.11)', id: 1493327990
-mas 'Todoist (8.0.4)', id: 585829637
+mas 'Reeder (5.3.2)', id: 1529448980
+mas 'TestFlight (3.2.2)', id: 899247664
 mas 'Tweetbot (2.5.8)', id: 557168941
-mas 'TweetDeck (3.18)', id: 485812721
-mas 'Twitter (8.96)', id: 1482454543
-mas 'VOX (3.4.4)', id: 461369673
+mas 'Twitter (9.30)', id: 1482454543
+mas 'VOX (3.5.2)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode (13.2.1)', id: 497799835
-mas 'そら案内 (4.1.0)', id: 599799247
-mas '世界株価ｱﾗｰﾄ (2.4.0)', id: 1273092330
+mas 'Xcode (14.0.1)', id: 497799835
+mas 'そら案内 (4.5.1)', id: 599799247
