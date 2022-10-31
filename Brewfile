@@ -140,8 +140,6 @@ brew 'mpdecimal'
 brew 'mpfr'
 brew 'msgpack'
 brew 'mycli'
-brew 'mysql@5.6'
-brew 'mysql@5.7'
 brew 'ncurses'
 brew 'neovim', args: ['HEAD']
 brew 'nettle'
