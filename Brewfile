@@ -150,6 +150,7 @@ brew 'mpdecimal'
 brew 'mpfr'
 brew 'msgpack'
 brew 'mycli'
+brew 'mysql'
 brew 'ncurses'
 brew 'neovim', args: ['HEAD']
 brew 'nettle'
@@ -239,6 +240,7 @@ brew 'zplug'
 brew 'zsh'
 brew 'zsh-completions'
 brew 'zstd'
+brew 'zx'
 
 tap 'homebrew/bundle'
 
@@ -360,24 +362,19 @@ mas 'DaisyDisk (4.23.1)', id: 411643860
 mas 'Darkroom (6.1.1)', id: 953286746
 mas 'Developer (10.1.3)', id: 640199958
 mas 'Fantastical (3.7.2)', id: 975937182
-mas 'GarageBand (10.4.5)', id: 682658836
 mas 'Howler Timer (1.6.1)', id: 428846772
-mas 'ImageOptim (1.5.0)', id: 1450716465
-mas 'iMovie (10.3.1)', id: 408981434
-mas 'Keynote (11.2)', id: 409183694
-mas 'LINE (7.12.1)', id: 539883307
-mas 'MagicCopy (3.0.2)', id: 1434526691
+mas 'Keynote (12.2)', id: 409183694
+mas 'LINE (7.13.1)', id: 539883307
 mas 'MARKETSPEED (3.0.0)', id: 946680495
-mas 'MeetingBar (4.1.0)', id: 1532419400
+mas 'MeetingBar (4.2.1)', id: 1532419400
 mas 'MenubarX (1.5.3)', id: 1575588022
 mas 'Monosnap (5.1.7)', id: 540348655
-mas 'Numbers (11.2)', id: 409203825
-mas 'Pages (11.2)', id: 409201541
+mas 'Numbers (12.2)', id: 409203825
+mas 'Pages (12.2)', id: 409201541
 mas 'Reeder (5.3.2)', id: 1529448980
 mas 'TestFlight (3.2.2)', id: 899247664
 mas 'Tweetbot (2.5.8)', id: 557168941
 mas 'Twitter (9.30)', id: 1482454543
-mas 'VOX (3.5.2)', id: 461369673
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode (14.0.1)', id: 497799835
+mas 'Xcode (14.1)', id: 497799835
 mas 'そら案内 (4.5.1)', id: 599799247
