@@ -170,6 +170,7 @@ cask 'font-powerline-symbols'
 cask 'font-roboto'
 cask 'font-source-code-pro'
 cask 'font-source-code-pro-for-powerline'
+cask 'font-udev-gothic-nf'
 
 tap 'homebrew/cask-versions'
 cask 'discord-canary'
@@ -231,24 +232,23 @@ tap 'remind101/formulae'
 tap 'vectordotdev/brew'
 
 # App Store applications
+mas 'Amphetamine (5.2.2)', id: 937984704
 mas 'Apple Configurator (2.16)', id: 1037126344
 mas 'BetterSnapTool (1.9.8)', id: 417375580
-mas 'CommentScreen (1.1.4)', id: 1450950860
-mas 'CotEditor (4.4.2)', id: 1024640650
+mas 'CommentScreen (1.1.5)', id: 1450950860
+mas 'CotEditor (4.4.5)', id: 1024640650
 mas 'DaisyDisk (4.24)', id: 411643860
-mas 'Darkroom (6.3)', id: 953286746
-mas 'Developer (10.1.3)', id: 640199958
+mas 'Darkroom (6.3.4)', id: 953286746
+mas 'Developer (10.2)', id: 640199958
 mas 'Howler Timer (1.6.1)', id: 428846772
 mas 'Keynote (12.2.1)', id: 409183694
-mas 'LINE (7.14.1)', id: 539883307
+mas 'LINE (7.15.0)', id: 539883307
 mas 'MeetingBar (4.2.2)', id: 1532419400
-mas 'Monosnap (5.1.7)', id: 540348655
+mas 'Monosnap (5.1.9)', id: 540348655
 mas 'Numbers (12.2.1)', id: 409203825
 mas 'Pages (12.2.1)', id: 409201541
-mas 'Reeder (5.3.4)', id: 1529448980
-mas 'TestFlight (3.2.3)', id: 899247664
-mas 'Tweetbot (2.5.8)', id: 557168941
-mas 'Twitter (9.30)', id: 1482454543
+mas 'Reeder (5.4)', id: 1529448980
+mas 'TestFlight (3.2.4)', id: 899247664
 mas 'WinArchiver Lite (2.5.3)', id: 414855915
-mas 'Xcode (14.1)', id: 497799835
-mas 'そら案内 (4.5.2)', id: 599799247
+mas 'Xcode (14.2)', id: 497799835
+mas 'そら案内 (5.1.1)', id: 599799247
