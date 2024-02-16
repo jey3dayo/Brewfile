@@ -250,10 +250,8 @@ brew 'python-sympy'
 brew 'python-tabulate'
 brew 'python-typing-extensions'
 brew 'python-urllib3'
-brew 'python@3.10'
 brew 'python@3.11'
 brew 'python@3.12'
-brew 'python@3.8'
 brew 'pyyaml'
 brew 'qemu'
 brew 'rainbarf'
@@ -390,8 +388,6 @@ cask 'wezterm-nightly'
 cask 'zulu8'
 
 tap 'homebrew/services'
-
-tap 'adoptopenjdk/openjdk'
 
 tap 'aquasecurity/trivy'
 
