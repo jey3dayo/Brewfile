@@ -1,0 +1,10 @@
+# iPad
+'Stock Events.app'
+
+# not-brew
+'SteelSeries ExactMouse Tool.app'
+'HHKB Pro Driver.app'
+
+# Work
+FortiClient.app
+FortiClientUninstaller.app
